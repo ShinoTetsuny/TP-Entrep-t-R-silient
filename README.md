@@ -67,3 +67,17 @@ Found 3 items
 -rw-r--r--   3 root supergroup      76353 2026-07-08 12:57 /data/commandes/commandes_2026-06-12.csv
 -rw-r--r--   3 root supergroup      76582 2026-07-08 12:57 /data/commandes/commandes_2026-06-13.csv
 -rw-r--r--   3 root supergroup      76371 2026-07-08 12:57 /data/commandes/commandes_2026-06-14.csv
+
+## Étape 3 — Preuve de la réplication (avant panne)
+
+```bash
+docker exec namenode hdfs fsck /data/commandes -files -blocks -locations
+```
+
+```
+Status: HEALTHY
+ Number of data-nodes:  3
+ Number of racks:               1
+ Total dirs:                    1
+ Total symlinks:                0
+```
