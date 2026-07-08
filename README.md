@@ -81,3 +81,34 @@ Status: HEALTHY
  Total dirs:                    1
  Total symlinks:                0
 ```
+
+## Étape 4 — Job Spark : lecture, typage, agrégation
+
+```bash
+docker cp job.py spark-master:/tmp/job.py
+docker exec spark-master /spark/bin/spark-submit \
+  --master spark://spark-master:7077 \
+  /tmp/job.py
+```
+
+Le job :
+- lit les 3 CSV en un seul DataFrame (`hdfs://namenode:8020/data/commandes/*.csv`)
+- caste `quantite` en int et `prix_unitaire` en double
+- calcule par `entrepot` et `date` : CA total, nombre de commandes, panier moyen
+- écrit le résultat en Parquet dans `hdfs://namenode:8020/data/agg_entrepot_jour`
+
+```
++-------------+----------+----------------------+------------+------------------+
+|entrepot     |date      |chiffre_affaires_total|nb_commandes|panier_moyen      |
++-------------+----------+----------------------+------------+------------------+
+|Entrepot Est |2026-06-12|69854.31999999996     |195         |358.22728205128186|
+|Entrepot Nord|2026-06-12|165671.70999999993    |493         |336.0480933062879 |
+|Entrepot Sud |2026-06-12|97317.95              |312         |311.9165064102564 |
+|Entrepot Est |2026-06-13|62843.82000000001     |213         |295.04140845070424|
+|Entrepot Nord|2026-06-13|196025.71999999983    |515         |380.63246601941717|
+|Entrepot Sud |2026-06-13|100965.93000000002    |272         |371.1982720588236 |
+|Entrepot Est |2026-06-14|65872.82000000004     |189         |348.53343915343936|
+|Entrepot Nord|2026-06-14|188460.4900000001     |501         |376.1686427145711 |
+|Entrepot Sud |2026-06-14|112708.41999999998    |310         |363.5755483870967 |
++-------------+----------+----------------------+------------+------------------+
+```
