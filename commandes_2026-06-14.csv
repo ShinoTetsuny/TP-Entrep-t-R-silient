@@ -1,0 +1,1001 @@
+id_commande,date,client_id,produit,categorie,quantite,prix_unitaire,entrepot
+C202606140001,2026-06-14,CL0072,Chaise bureau,Mobilier,2,244.46,Entrepot Nord
+C202606140002,2026-06-14,CL0001,Casque audio,Electronique,4,91.62,Entrepot Nord
+C202606140003,2026-06-14,CL0022,Console jeux,Electronique,3,399.61,Entrepot Nord
+C202606140004,2026-06-14,CL0378,Casque audio,Electronique,1,86.26,Entrepot Nord
+C202606140005,2026-06-14,CL0360,Livre,Culture,4,12.75,Entrepot Nord
+C202606140006,2026-06-14,CL0303,Casque audio,Electronique,2,54.43,Entrepot Sud
+C202606140007,2026-06-14,CL0351,Plante verte,Maison,3,16.44,Entrepot Sud
+C202606140008,2026-06-14,CL0186,Casque audio,Electronique,2,64.03,Entrepot Nord
+C202606140009,2026-06-14,CL0290,Plante verte,Maison,1,16.59,Entrepot Sud
+C202606140010,2026-06-14,CL0333,Chaise bureau,Mobilier,5,84.54,Entrepot Nord
+C202606140011,2026-06-14,CL0017,Console jeux,Electronique,4,392.21,Entrepot Nord
+C202606140012,2026-06-14,CL0202,Livre,Culture,5,16.44,Entrepot Nord
+C202606140013,2026-06-14,CL0111,Casque audio,Electronique,2,109.36,Entrepot Sud
+C202606140014,2026-06-14,CL0265,Plante verte,Maison,2,35.68,Entrepot Nord
+C202606140015,2026-06-14,CL0086,Livre,Culture,1,21.28,Entrepot Nord
+C202606140016,2026-06-14,CL0058,Console jeux,Electronique,4,363.29,Entrepot Nord
+C202606140017,2026-06-14,CL0156,Casque audio,Electronique,5,58.71,Entrepot Est
+C202606140018,2026-06-14,CL0069,Livre,Culture,5,17.69,Entrepot Sud
+C202606140019,2026-06-14,CL0047,Livre,Culture,5,17.72,Entrepot Nord
+C202606140020,2026-06-14,CL0394,Chaise bureau,Mobilier,5,108.4,Entrepot Nord
+C202606140021,2026-06-14,CL0397,Chaise bureau,Mobilier,4,232.83,Entrepot Nord
+C202606140022,2026-06-14,CL0038,Casque audio,Electronique,1,116.89,Entrepot Nord
+C202606140023,2026-06-14,CL0040,Chaise bureau,Mobilier,4,197.36,Entrepot Nord
+C202606140024,2026-06-14,CL0387,Console jeux,Electronique,5,398.82,Entrepot Nord
+C202606140025,2026-06-14,CL0091,Console jeux,Electronique,3,331.72,Entrepot Est
+C202606140026,2026-06-14,CL0286,Livre,Culture,4,10.43,Entrepot Nord
+C202606140027,2026-06-14,CL0001,Livre,Culture,4,15.26,Entrepot Sud
+C202606140028,2026-06-14,CL0096,Casque audio,Electronique,4,49.57,Entrepot Nord
+C202606140029,2026-06-14,CL0123,Casque audio,Electronique,3,88.07,Entrepot Nord
+C202606140030,2026-06-14,CL0208,Casque audio,Electronique,5,53.29,Entrepot Sud
+C202606140031,2026-06-14,CL0025,Casque audio,Electronique,1,88.44,Entrepot Sud
+C202606140032,2026-06-14,CL0283,Console jeux,Electronique,2,219.6,Entrepot Sud
+C202606140033,2026-06-14,CL0184,Casque audio,Electronique,4,53.4,Entrepot Sud
+C202606140034,2026-06-14,CL0224,Chaise bureau,Mobilier,1,174.79,Entrepot Nord
+C202606140035,2026-06-14,CL0202,Chaise bureau,Mobilier,5,164.95,Entrepot Nord
+C202606140036,2026-06-14,CL0260,Casque audio,Electronique,4,54.83,Entrepot Nord
+C202606140037,2026-06-14,CL0196,Console jeux,Electronique,3,403.08,Entrepot Sud
+C202606140038,2026-06-14,CL0291,Casque audio,Electronique,2,63.29,Entrepot Nord
+C202606140039,2026-06-14,CL0061,Livre,Culture,2,13.26,Entrepot Est
+C202606140040,2026-06-14,CL0315,Casque audio,Electronique,1,52.47,Entrepot Nord
+C202606140041,2026-06-14,CL0018,Casque audio,Electronique,5,78.59,Entrepot Est
+C202606140042,2026-06-14,CL0043,Livre,Culture,3,21.2,Entrepot Nord
+C202606140043,2026-06-14,CL0215,Casque audio,Electronique,5,74.73,Entrepot Sud
+C202606140044,2026-06-14,CL0096,Livre,Culture,5,13.93,Entrepot Nord
+C202606140045,2026-06-14,CL0320,Chaise bureau,Mobilier,4,239.9,Entrepot Est
+C202606140046,2026-06-14,CL0089,Casque audio,Electronique,2,50.6,Entrepot Nord
+C202606140047,2026-06-14,CL0364,Plante verte,Maison,3,27.39,Entrepot Nord
+C202606140048,2026-06-14,CL0160,Plante verte,Maison,4,18.82,Entrepot Sud
+C202606140049,2026-06-14,CL0135,Livre,Culture,1,14.82,Entrepot Est
+C202606140050,2026-06-14,CL0270,Plante verte,Maison,5,16.14,Entrepot Est
+C202606140051,2026-06-14,CL0270,Chaise bureau,Mobilier,4,241.9,Entrepot Est
+C202606140052,2026-06-14,CL0249,Console jeux,Electronique,3,249.38,Entrepot Sud
+C202606140053,2026-06-14,CL0282,Chaise bureau,Mobilier,4,178.47,Entrepot Sud
+C202606140054,2026-06-14,CL0047,Livre,Culture,2,18.0,Entrepot Sud
+C202606140055,2026-06-14,CL0186,Livre,Culture,4,20.15,Entrepot Est
+C202606140056,2026-06-14,CL0121,Casque audio,Electronique,5,64.3,Entrepot Sud
+C202606140057,2026-06-14,CL0054,Chaise bureau,Mobilier,1,163.57,Entrepot Est
+C202606140058,2026-06-14,CL0209,Plante verte,Maison,4,21.32,Entrepot Sud
+C202606140059,2026-06-14,CL0175,Console jeux,Electronique,4,283.86,Entrepot Est
+C202606140060,2026-06-14,CL0256,Livre,Culture,2,21.51,Entrepot Nord
+C202606140061,2026-06-14,CL0252,Casque audio,Electronique,4,61.86,Entrepot Nord
+C202606140062,2026-06-14,CL0384,Casque audio,Electronique,4,92.74,Entrepot Sud
+C202606140063,2026-06-14,CL0386,Plante verte,Maison,5,25.89,Entrepot Nord
+C202606140064,2026-06-14,CL0022,Chaise bureau,Mobilier,5,175.65,Entrepot Sud
+C202606140065,2026-06-14,CL0091,Plante verte,Maison,2,19.65,Entrepot Nord
+C202606140066,2026-06-14,CL0307,Livre,Culture,3,21.28,Entrepot Nord
+C202606140067,2026-06-14,CL0348,Chaise bureau,Mobilier,1,247.09,Entrepot Nord
+C202606140068,2026-06-14,CL0394,Chaise bureau,Mobilier,1,97.14,Entrepot Sud
+C202606140069,2026-06-14,CL0093,Livre,Culture,1,20.94,Entrepot Nord
+C202606140070,2026-06-14,CL0295,Casque audio,Electronique,4,63.23,Entrepot Sud
+C202606140071,2026-06-14,CL0370,Console jeux,Electronique,2,223.5,Entrepot Nord
+C202606140072,2026-06-14,CL0106,Plante verte,Maison,1,38.92,Entrepot Est
+C202606140073,2026-06-14,CL0266,Chaise bureau,Mobilier,2,117.6,Entrepot Nord
+C202606140074,2026-06-14,CL0003,Livre,Culture,5,8.86,Entrepot Est
+C202606140075,2026-06-14,CL0091,Casque audio,Electronique,4,52.96,Entrepot Sud
+C202606140076,2026-06-14,CL0100,Plante verte,Maison,1,35.49,Entrepot Sud
+C202606140077,2026-06-14,CL0174,Console jeux,Electronique,5,323.39,Entrepot Est
+C202606140078,2026-06-14,CL0276,Chaise bureau,Mobilier,1,112.14,Entrepot Nord
+C202606140079,2026-06-14,CL0306,Casque audio,Electronique,5,90.54,Entrepot Sud
+C202606140080,2026-06-14,CL0149,Chaise bureau,Mobilier,2,88.83,Entrepot Sud
+C202606140081,2026-06-14,CL0136,Plante verte,Maison,4,15.49,Entrepot Sud
+C202606140082,2026-06-14,CL0345,Plante verte,Maison,3,21.53,Entrepot Nord
+C202606140083,2026-06-14,CL0118,Console jeux,Electronique,4,263.64,Entrepot Sud
+C202606140084,2026-06-14,CL0153,Chaise bureau,Mobilier,3,207.93,Entrepot Est
+C202606140085,2026-06-14,CL0398,Livre,Culture,2,8.13,Entrepot Sud
+C202606140086,2026-06-14,CL0363,Livre,Culture,3,15.83,Entrepot Nord
+C202606140087,2026-06-14,CL0141,Chaise bureau,Mobilier,2,153.02,Entrepot Nord
+C202606140088,2026-06-14,CL0053,Plante verte,Maison,5,16.23,Entrepot Sud
+C202606140089,2026-06-14,CL0204,Casque audio,Electronique,5,98.82,Entrepot Sud
+C202606140090,2026-06-14,CL0128,Plante verte,Maison,1,15.94,Entrepot Est
+C202606140091,2026-06-14,CL0270,Console jeux,Electronique,3,330.78,Entrepot Nord
+C202606140092,2026-06-14,CL0312,Plante verte,Maison,1,25.64,Entrepot Nord
+C202606140093,2026-06-14,CL0276,Casque audio,Electronique,4,94.18,Entrepot Sud
+C202606140094,2026-06-14,CL0060,Livre,Culture,2,19.59,Entrepot Est
+C202606140095,2026-06-14,CL0357,Livre,Culture,1,13.43,Entrepot Est
+C202606140096,2026-06-14,CL0030,Plante verte,Maison,1,26.67,Entrepot Sud
+C202606140097,2026-06-14,CL0176,Chaise bureau,Mobilier,5,198.22,Entrepot Nord
+C202606140098,2026-06-14,CL0154,Console jeux,Electronique,5,376.44,Entrepot Nord
+C202606140099,2026-06-14,CL0196,Casque audio,Electronique,3,57.26,Entrepot Sud
+C202606140100,2026-06-14,CL0242,Chaise bureau,Mobilier,3,134.94,Entrepot Sud
+C202606140101,2026-06-14,CL0375,Livre,Culture,3,24.63,Entrepot Sud
+C202606140102,2026-06-14,CL0326,Livre,Culture,4,23.98,Entrepot Nord
+C202606140103,2026-06-14,CL0236,Console jeux,Electronique,1,272.75,Entrepot Nord
+C202606140104,2026-06-14,CL0333,Chaise bureau,Mobilier,1,73.15,Entrepot Sud
+C202606140105,2026-06-14,CL0290,Livre,Culture,2,11.87,Entrepot Nord
+C202606140106,2026-06-14,CL0319,Chaise bureau,Mobilier,3,158.4,Entrepot Sud
+C202606140107,2026-06-14,CL0389,Casque audio,Electronique,4,94.25,Entrepot Nord
+C202606140108,2026-06-14,CL0118,Chaise bureau,Mobilier,4,126.8,Entrepot Est
+C202606140109,2026-06-14,CL0229,Plante verte,Maison,5,12.15,Entrepot Est
+C202606140110,2026-06-14,CL0057,Console jeux,Electronique,4,380.49,Entrepot Est
+C202606140111,2026-06-14,CL0028,Livre,Culture,4,19.77,Entrepot Sud
+C202606140112,2026-06-14,CL0244,Chaise bureau,Mobilier,3,134.28,Entrepot Sud
+C202606140113,2026-06-14,CL0081,Chaise bureau,Mobilier,1,169.84,Entrepot Nord
+C202606140114,2026-06-14,CL0258,Plante verte,Maison,2,22.23,Entrepot Nord
+C202606140115,2026-06-14,CL0037,Plante verte,Maison,3,28.37,Entrepot Sud
+C202606140116,2026-06-14,CL0069,Casque audio,Electronique,1,53.41,Entrepot Nord
+C202606140117,2026-06-14,CL0363,Livre,Culture,4,11.94,Entrepot Nord
+C202606140118,2026-06-14,CL0242,Casque audio,Electronique,4,97.46,Entrepot Est
+C202606140119,2026-06-14,CL0072,Console jeux,Electronique,2,420.89,Entrepot Est
+C202606140120,2026-06-14,CL0391,Livre,Culture,2,23.33,Entrepot Sud
+C202606140121,2026-06-14,CL0154,Casque audio,Electronique,5,67.13,Entrepot Nord
+C202606140122,2026-06-14,CL0359,Chaise bureau,Mobilier,3,60.54,Entrepot Sud
+C202606140123,2026-06-14,CL0202,Console jeux,Electronique,3,291.51,Entrepot Nord
+C202606140124,2026-06-14,CL0304,Chaise bureau,Mobilier,2,97.81,Entrepot Sud
+C202606140125,2026-06-14,CL0241,Plante verte,Maison,4,20.7,Entrepot Sud
+C202606140126,2026-06-14,CL0185,Livre,Culture,1,14.81,Entrepot Nord
+C202606140127,2026-06-14,CL0273,Chaise bureau,Mobilier,2,234.64,Entrepot Est
+C202606140128,2026-06-14,CL0182,Plante verte,Maison,2,12.2,Entrepot Sud
+C202606140129,2026-06-14,CL0149,Casque audio,Electronique,2,119.48,Entrepot Nord
+C202606140130,2026-06-14,CL0345,Casque audio,Electronique,3,104.31,Entrepot Nord
+C202606140131,2026-06-14,CL0291,Chaise bureau,Mobilier,4,212.4,Entrepot Nord
+C202606140132,2026-06-14,CL0161,Plante verte,Maison,5,16.49,Entrepot Nord
+C202606140133,2026-06-14,CL0377,Plante verte,Maison,5,25.57,Entrepot Sud
+C202606140134,2026-06-14,CL0349,Plante verte,Maison,3,28.36,Entrepot Nord
+C202606140135,2026-06-14,CL0399,Plante verte,Maison,1,37.18,Entrepot Est
+C202606140136,2026-06-14,CL0310,Casque audio,Electronique,4,116.33,Entrepot Est
+C202606140137,2026-06-14,CL0266,Console jeux,Electronique,1,388.91,Entrepot Nord
+C202606140138,2026-06-14,CL0208,Casque audio,Electronique,5,61.06,Entrepot Nord
+C202606140139,2026-06-14,CL0279,Casque audio,Electronique,4,76.59,Entrepot Nord
+C202606140140,2026-06-14,CL0187,Livre,Culture,2,18.32,Entrepot Nord
+C202606140141,2026-06-14,CL0122,Plante verte,Maison,4,24.01,Entrepot Nord
+C202606140142,2026-06-14,CL0306,Livre,Culture,2,21.11,Entrepot Nord
+C202606140143,2026-06-14,CL0190,Console jeux,Electronique,3,275.19,Entrepot Sud
+C202606140144,2026-06-14,CL0144,Plante verte,Maison,5,30.01,Entrepot Est
+C202606140145,2026-06-14,CL0039,Livre,Culture,1,13.27,Entrepot Nord
+C202606140146,2026-06-14,CL0229,Livre,Culture,4,16.29,Entrepot Nord
+C202606140147,2026-06-14,CL0176,Livre,Culture,3,21.71,Entrepot Nord
+C202606140148,2026-06-14,CL0094,Livre,Culture,4,11.48,Entrepot Sud
+C202606140149,2026-06-14,CL0392,Casque audio,Electronique,5,83.12,Entrepot Sud
+C202606140150,2026-06-14,CL0392,Livre,Culture,4,23.36,Entrepot Sud
+C202606140151,2026-06-14,CL0229,Chaise bureau,Mobilier,1,221.89,Entrepot Sud
+C202606140152,2026-06-14,CL0144,Livre,Culture,1,20.88,Entrepot Sud
+C202606140153,2026-06-14,CL0135,Livre,Culture,1,17.21,Entrepot Nord
+C202606140154,2026-06-14,CL0330,Console jeux,Electronique,3,435.65,Entrepot Nord
+C202606140155,2026-06-14,CL0283,Plante verte,Maison,2,12.89,Entrepot Est
+C202606140156,2026-06-14,CL0217,Console jeux,Electronique,4,371.37,Entrepot Sud
+C202606140157,2026-06-14,CL0209,Casque audio,Electronique,5,117.64,Entrepot Sud
+C202606140158,2026-06-14,CL0005,Chaise bureau,Mobilier,2,230.14,Entrepot Sud
+C202606140159,2026-06-14,CL0068,Console jeux,Electronique,2,303.04,Entrepot Sud
+C202606140160,2026-06-14,CL0020,Plante verte,Maison,2,20.7,Entrepot Nord
+C202606140161,2026-06-14,CL0352,Casque audio,Electronique,3,65.08,Entrepot Sud
+C202606140162,2026-06-14,CL0328,Livre,Culture,4,12.91,Entrepot Nord
+C202606140163,2026-06-14,CL0150,Chaise bureau,Mobilier,3,209.56,Entrepot Sud
+C202606140164,2026-06-14,CL0069,Casque audio,Electronique,4,88.48,Entrepot Sud
+C202606140165,2026-06-14,CL0080,Casque audio,Electronique,3,95.16,Entrepot Nord
+C202606140166,2026-06-14,CL0045,Casque audio,Electronique,2,75.19,Entrepot Sud
+C202606140167,2026-06-14,CL0327,Chaise bureau,Mobilier,1,232.83,Entrepot Sud
+C202606140168,2026-06-14,CL0255,Plante verte,Maison,5,20.84,Entrepot Sud
+C202606140169,2026-06-14,CL0274,Plante verte,Maison,3,36.97,Entrepot Sud
+C202606140170,2026-06-14,CL0108,Chaise bureau,Mobilier,3,123.88,Entrepot Est
+C202606140171,2026-06-14,CL0333,Casque audio,Electronique,3,113.66,Entrepot Sud
+C202606140172,2026-06-14,CL0396,Plante verte,Maison,2,19.95,Entrepot Sud
+C202606140173,2026-06-14,CL0123,Livre,Culture,1,18.59,Entrepot Sud
+C202606140174,2026-06-14,CL0169,Livre,Culture,4,11.92,Entrepot Nord
+C202606140175,2026-06-14,CL0373,Chaise bureau,Mobilier,4,236.93,Entrepot Sud
+C202606140176,2026-06-14,CL0101,Plante verte,Maison,4,14.56,Entrepot Nord
+C202606140177,2026-06-14,CL0354,Chaise bureau,Mobilier,5,152.6,Entrepot Nord
+C202606140178,2026-06-14,CL0382,Console jeux,Electronique,4,400.22,Entrepot Sud
+C202606140179,2026-06-14,CL0026,Chaise bureau,Mobilier,4,107.67,Entrepot Sud
+C202606140180,2026-06-14,CL0284,Livre,Culture,4,22.8,Entrepot Est
+C202606140181,2026-06-14,CL0241,Casque audio,Electronique,1,89.71,Entrepot Est
+C202606140182,2026-06-14,CL0313,Plante verte,Maison,4,39.53,Entrepot Nord
+C202606140183,2026-06-14,CL0231,Chaise bureau,Mobilier,2,161.94,Entrepot Sud
+C202606140184,2026-06-14,CL0344,Casque audio,Electronique,3,78.59,Entrepot Nord
+C202606140185,2026-06-14,CL0082,Console jeux,Electronique,1,257.52,Entrepot Nord
+C202606140186,2026-06-14,CL0379,Casque audio,Electronique,1,86.73,Entrepot Sud
+C202606140187,2026-06-14,CL0039,Livre,Culture,5,20.17,Entrepot Sud
+C202606140188,2026-06-14,CL0388,Chaise bureau,Mobilier,2,190.4,Entrepot Nord
+C202606140189,2026-06-14,CL0277,Casque audio,Electronique,1,55.22,Entrepot Nord
+C202606140190,2026-06-14,CL0271,Chaise bureau,Mobilier,4,124.67,Entrepot Sud
+C202606140191,2026-06-14,CL0078,Chaise bureau,Mobilier,3,77.37,Entrepot Nord
+C202606140192,2026-06-14,CL0060,Plante verte,Maison,2,39.97,Entrepot Est
+C202606140193,2026-06-14,CL0044,Console jeux,Electronique,3,355.74,Entrepot Est
+C202606140194,2026-06-14,CL0308,Livre,Culture,4,24.32,Entrepot Est
+C202606140195,2026-06-14,CL0224,Console jeux,Electronique,1,424.27,Entrepot Est
+C202606140196,2026-06-14,CL0026,Casque audio,Electronique,5,81.7,Entrepot Nord
+C202606140197,2026-06-14,CL0072,Chaise bureau,Mobilier,1,65.96,Entrepot Nord
+C202606140198,2026-06-14,CL0118,Livre,Culture,3,11.56,Entrepot Sud
+C202606140199,2026-06-14,CL0146,Casque audio,Electronique,4,83.85,Entrepot Sud
+C202606140200,2026-06-14,CL0139,Chaise bureau,Mobilier,2,139.94,Entrepot Est
+C202606140201,2026-06-14,CL0352,Console jeux,Electronique,1,357.38,Entrepot Nord
+C202606140202,2026-06-14,CL0395,Livre,Culture,5,8.92,Entrepot Nord
+C202606140203,2026-06-14,CL0055,Plante verte,Maison,1,39.54,Entrepot Sud
+C202606140204,2026-06-14,CL0336,Plante verte,Maison,5,31.36,Entrepot Sud
+C202606140205,2026-06-14,CL0049,Casque audio,Electronique,4,102.13,Entrepot Nord
+C202606140206,2026-06-14,CL0162,Plante verte,Maison,1,20.57,Entrepot Est
+C202606140207,2026-06-14,CL0220,Plante verte,Maison,4,17.92,Entrepot Sud
+C202606140208,2026-06-14,CL0285,Casque audio,Electronique,2,113.54,Entrepot Est
+C202606140209,2026-06-14,CL0341,Chaise bureau,Mobilier,5,121.67,Entrepot Nord
+C202606140210,2026-06-14,CL0080,Chaise bureau,Mobilier,1,183.0,Entrepot Est
+C202606140211,2026-06-14,CL0049,Chaise bureau,Mobilier,2,160.44,Entrepot Sud
+C202606140212,2026-06-14,CL0318,Chaise bureau,Mobilier,2,223.83,Entrepot Nord
+C202606140213,2026-06-14,CL0028,Chaise bureau,Mobilier,4,152.32,Entrepot Sud
+C202606140214,2026-06-14,CL0104,Chaise bureau,Mobilier,4,168.13,Entrepot Est
+C202606140215,2026-06-14,CL0017,Console jeux,Electronique,5,415.64,Entrepot Est
+C202606140216,2026-06-14,CL0082,Plante verte,Maison,1,16.22,Entrepot Est
+C202606140217,2026-06-14,CL0383,Plante verte,Maison,1,35.04,Entrepot Est
+C202606140218,2026-06-14,CL0350,Casque audio,Electronique,4,82.92,Entrepot Nord
+C202606140219,2026-06-14,CL0377,Console jeux,Electronique,1,341.21,Entrepot Sud
+C202606140220,2026-06-14,CL0352,Casque audio,Electronique,3,59.73,Entrepot Sud
+C202606140221,2026-06-14,CL0342,Casque audio,Electronique,2,55.49,Entrepot Est
+C202606140222,2026-06-14,CL0218,Chaise bureau,Mobilier,4,190.03,Entrepot Sud
+C202606140223,2026-06-14,CL0188,Casque audio,Electronique,5,72.94,Entrepot Sud
+C202606140224,2026-06-14,CL0282,Casque audio,Electronique,2,94.25,Entrepot Est
+C202606140225,2026-06-14,CL0110,Plante verte,Maison,5,14.77,Entrepot Sud
+C202606140226,2026-06-14,CL0101,Plante verte,Maison,1,16.14,Entrepot Sud
+C202606140227,2026-06-14,CL0095,Livre,Culture,5,17.34,Entrepot Sud
+C202606140228,2026-06-14,CL0349,Console jeux,Electronique,4,299.08,Entrepot Est
+C202606140229,2026-06-14,CL0302,Livre,Culture,3,14.62,Entrepot Est
+C202606140230,2026-06-14,CL0002,Plante verte,Maison,5,26.37,Entrepot Nord
+C202606140231,2026-06-14,CL0150,Casque audio,Electronique,5,108.16,Entrepot Nord
+C202606140232,2026-06-14,CL0204,Plante verte,Maison,4,25.8,Entrepot Nord
+C202606140233,2026-06-14,CL0133,Chaise bureau,Mobilier,2,210.06,Entrepot Nord
+C202606140234,2026-06-14,CL0260,Chaise bureau,Mobilier,3,159.0,Entrepot Sud
+C202606140235,2026-06-14,CL0023,Livre,Culture,3,24.97,Entrepot Sud
+C202606140236,2026-06-14,CL0201,Console jeux,Electronique,2,375.31,Entrepot Nord
+C202606140237,2026-06-14,CL0209,Casque audio,Electronique,5,49.15,Entrepot Est
+C202606140238,2026-06-14,CL0007,Livre,Culture,5,16.63,Entrepot Nord
+C202606140239,2026-06-14,CL0171,Chaise bureau,Mobilier,1,130.08,Entrepot Sud
+C202606140240,2026-06-14,CL0132,Casque audio,Electronique,2,113.91,Entrepot Sud
+C202606140241,2026-06-14,CL0362,Livre,Culture,2,13.93,Entrepot Sud
+C202606140242,2026-06-14,CL0271,Casque audio,Electronique,3,96.84,Entrepot Nord
+C202606140243,2026-06-14,CL0297,Casque audio,Electronique,5,76.95,Entrepot Nord
+C202606140244,2026-06-14,CL0359,Plante verte,Maison,4,36.2,Entrepot Sud
+C202606140245,2026-06-14,CL0126,Console jeux,Electronique,2,386.44,Entrepot Est
+C202606140246,2026-06-14,CL0346,Livre,Culture,3,20.5,Entrepot Sud
+C202606140247,2026-06-14,CL0342,Console jeux,Electronique,1,443.2,Entrepot Est
+C202606140248,2026-06-14,CL0214,Chaise bureau,Mobilier,3,147.06,Entrepot Sud
+C202606140249,2026-06-14,CL0075,Livre,Culture,2,11.68,Entrepot Sud
+C202606140250,2026-06-14,CL0292,Livre,Culture,2,12.94,Entrepot Nord
+C202606140251,2026-06-14,CL0280,Console jeux,Electronique,4,298.93,Entrepot Sud
+C202606140252,2026-06-14,CL0082,Casque audio,Electronique,4,69.73,Entrepot Nord
+C202606140253,2026-06-14,CL0194,Console jeux,Electronique,3,233.88,Entrepot Sud
+C202606140254,2026-06-14,CL0290,Chaise bureau,Mobilier,4,225.59,Entrepot Est
+C202606140255,2026-06-14,CL0194,Livre,Culture,4,13.99,Entrepot Nord
+C202606140256,2026-06-14,CL0159,Chaise bureau,Mobilier,3,243.58,Entrepot Sud
+C202606140257,2026-06-14,CL0304,Casque audio,Electronique,3,111.84,Entrepot Sud
+C202606140258,2026-06-14,CL0367,Casque audio,Electronique,4,95.54,Entrepot Sud
+C202606140259,2026-06-14,CL0295,Plante verte,Maison,4,14.77,Entrepot Est
+C202606140260,2026-06-14,CL0074,Casque audio,Electronique,1,70.26,Entrepot Nord
+C202606140261,2026-06-14,CL0117,Casque audio,Electronique,4,51.03,Entrepot Est
+C202606140262,2026-06-14,CL0006,Plante verte,Maison,2,28.8,Entrepot Nord
+C202606140263,2026-06-14,CL0397,Console jeux,Electronique,3,253.52,Entrepot Est
+C202606140264,2026-06-14,CL0363,Chaise bureau,Mobilier,4,136.65,Entrepot Nord
+C202606140265,2026-06-14,CL0365,Livre,Culture,3,19.03,Entrepot Nord
+C202606140266,2026-06-14,CL0094,Livre,Culture,4,12.47,Entrepot Sud
+C202606140267,2026-06-14,CL0119,Casque audio,Electronique,2,71.17,Entrepot Sud
+C202606140268,2026-06-14,CL0094,Plante verte,Maison,4,27.67,Entrepot Nord
+C202606140269,2026-06-14,CL0284,Livre,Culture,1,12.52,Entrepot Nord
+C202606140270,2026-06-14,CL0382,Console jeux,Electronique,2,302.37,Entrepot Sud
+C202606140271,2026-06-14,CL0307,Chaise bureau,Mobilier,1,119.88,Entrepot Nord
+C202606140272,2026-06-14,CL0373,Chaise bureau,Mobilier,4,148.17,Entrepot Sud
+C202606140273,2026-06-14,CL0176,Console jeux,Electronique,2,428.32,Entrepot Nord
+C202606140274,2026-06-14,CL0328,Plante verte,Maison,5,34.05,Entrepot Nord
+C202606140275,2026-06-14,CL0096,Chaise bureau,Mobilier,4,191.75,Entrepot Nord
+C202606140276,2026-06-14,CL0246,Plante verte,Maison,3,26.7,Entrepot Nord
+C202606140277,2026-06-14,CL0091,Plante verte,Maison,4,31.06,Entrepot Nord
+C202606140278,2026-06-14,CL0016,Chaise bureau,Mobilier,4,152.92,Entrepot Nord
+C202606140279,2026-06-14,CL0274,Livre,Culture,1,20.72,Entrepot Nord
+C202606140280,2026-06-14,CL0274,Console jeux,Electronique,5,200.62,Entrepot Nord
+C202606140281,2026-06-14,CL0054,Plante verte,Maison,1,13.11,Entrepot Nord
+C202606140282,2026-06-14,CL0149,Console jeux,Electronique,3,329.52,Entrepot Sud
+C202606140283,2026-06-14,CL0391,Plante verte,Maison,2,24.35,Entrepot Est
+C202606140284,2026-06-14,CL0115,Casque audio,Electronique,1,117.98,Entrepot Nord
+C202606140285,2026-06-14,CL0177,Casque audio,Electronique,3,45.29,Entrepot Sud
+C202606140286,2026-06-14,CL0132,Casque audio,Electronique,1,88.07,Entrepot Sud
+C202606140287,2026-06-14,CL0377,Console jeux,Electronique,3,216.81,Entrepot Nord
+C202606140288,2026-06-14,CL0113,Casque audio,Electronique,4,65.02,Entrepot Nord
+C202606140289,2026-06-14,CL0053,Chaise bureau,Mobilier,4,203.09,Entrepot Sud
+C202606140290,2026-06-14,CL0214,Casque audio,Electronique,2,96.42,Entrepot Nord
+C202606140291,2026-06-14,CL0348,Chaise bureau,Mobilier,3,67.93,Entrepot Nord
+C202606140292,2026-06-14,CL0318,Console jeux,Electronique,4,297.73,Entrepot Nord
+C202606140293,2026-06-14,CL0268,Plante verte,Maison,3,16.73,Entrepot Sud
+C202606140294,2026-06-14,CL0395,Chaise bureau,Mobilier,2,141.55,Entrepot Nord
+C202606140295,2026-06-14,CL0175,Chaise bureau,Mobilier,5,241.03,Entrepot Sud
+C202606140296,2026-06-14,CL0115,Livre,Culture,5,9.49,Entrepot Est
+C202606140297,2026-06-14,CL0047,Livre,Culture,5,14.72,Entrepot Nord
+C202606140298,2026-06-14,CL0363,Casque audio,Electronique,3,77.56,Entrepot Nord
+C202606140299,2026-06-14,CL0348,Chaise bureau,Mobilier,3,248.45,Entrepot Sud
+C202606140300,2026-06-14,CL0209,Casque audio,Electronique,1,73.85,Entrepot Est
+C202606140301,2026-06-14,CL0106,Plante verte,Maison,5,26.02,Entrepot Nord
+C202606140302,2026-06-14,CL0069,Chaise bureau,Mobilier,5,180.12,Entrepot Nord
+C202606140303,2026-06-14,CL0312,Casque audio,Electronique,4,75.02,Entrepot Nord
+C202606140304,2026-06-14,CL0207,Console jeux,Electronique,3,274.14,Entrepot Sud
+C202606140305,2026-06-14,CL0245,Plante verte,Maison,1,15.22,Entrepot Nord
+C202606140306,2026-06-14,CL0367,Plante verte,Maison,4,20.18,Entrepot Est
+C202606140307,2026-06-14,CL0165,Casque audio,Electronique,4,112.18,Entrepot Nord
+C202606140308,2026-06-14,CL0331,Plante verte,Maison,1,28.05,Entrepot Nord
+C202606140309,2026-06-14,CL0152,Chaise bureau,Mobilier,2,247.11,Entrepot Nord
+C202606140310,2026-06-14,CL0016,Casque audio,Electronique,4,66.72,Entrepot Nord
+C202606140311,2026-06-14,CL0086,Chaise bureau,Mobilier,3,249.5,Entrepot Nord
+C202606140312,2026-06-14,CL0310,Casque audio,Electronique,5,49.03,Entrepot Nord
+C202606140313,2026-06-14,CL0039,Console jeux,Electronique,4,226.77,Entrepot Nord
+C202606140314,2026-06-14,CL0096,Chaise bureau,Mobilier,3,154.21,Entrepot Nord
+C202606140315,2026-06-14,CL0208,Casque audio,Electronique,4,94.03,Entrepot Nord
+C202606140316,2026-06-14,CL0350,Plante verte,Maison,4,15.67,Entrepot Sud
+C202606140317,2026-06-14,CL0361,Console jeux,Electronique,4,282.62,Entrepot Nord
+C202606140318,2026-06-14,CL0149,Livre,Culture,2,22.97,Entrepot Nord
+C202606140319,2026-06-14,CL0095,Casque audio,Electronique,5,118.03,Entrepot Sud
+C202606140320,2026-06-14,CL0117,Console jeux,Electronique,4,241.8,Entrepot Nord
+C202606140321,2026-06-14,CL0078,Plante verte,Maison,4,15.26,Entrepot Nord
+C202606140322,2026-06-14,CL0136,Chaise bureau,Mobilier,3,196.36,Entrepot Nord
+C202606140323,2026-06-14,CL0057,Casque audio,Electronique,5,77.89,Entrepot Nord
+C202606140324,2026-06-14,CL0299,Livre,Culture,1,10.28,Entrepot Nord
+C202606140325,2026-06-14,CL0031,Casque audio,Electronique,2,98.71,Entrepot Sud
+C202606140326,2026-06-14,CL0233,Plante verte,Maison,5,18.82,Entrepot Sud
+C202606140327,2026-06-14,CL0193,Console jeux,Electronique,1,313.78,Entrepot Est
+C202606140328,2026-06-14,CL0368,Casque audio,Electronique,2,103.82,Entrepot Est
+C202606140329,2026-06-14,CL0253,Chaise bureau,Mobilier,5,142.95,Entrepot Nord
+C202606140330,2026-06-14,CL0147,Livre,Culture,4,21.52,Entrepot Est
+C202606140331,2026-06-14,CL0146,Chaise bureau,Mobilier,4,244.36,Entrepot Nord
+C202606140332,2026-06-14,CL0261,Plante verte,Maison,2,20.64,Entrepot Est
+C202606140333,2026-06-14,CL0353,Plante verte,Maison,3,25.15,Entrepot Nord
+C202606140334,2026-06-14,CL0226,Chaise bureau,Mobilier,3,90.22,Entrepot Nord
+C202606140335,2026-06-14,CL0126,Console jeux,Electronique,5,402.38,Entrepot Sud
+C202606140336,2026-06-14,CL0202,Chaise bureau,Mobilier,5,136.31,Entrepot Nord
+C202606140337,2026-06-14,CL0276,Plante verte,Maison,3,20.85,Entrepot Nord
+C202606140338,2026-06-14,CL0080,Plante verte,Maison,1,28.93,Entrepot Nord
+C202606140339,2026-06-14,CL0068,Console jeux,Electronique,4,329.39,Entrepot Sud
+C202606140340,2026-06-14,CL0268,Chaise bureau,Mobilier,4,246.4,Entrepot Nord
+C202606140341,2026-06-14,CL0323,Console jeux,Electronique,1,362.1,Entrepot Nord
+C202606140342,2026-06-14,CL0196,Chaise bureau,Mobilier,4,123.45,Entrepot Sud
+C202606140343,2026-06-14,CL0076,Console jeux,Electronique,5,374.3,Entrepot Nord
+C202606140344,2026-06-14,CL0235,Chaise bureau,Mobilier,3,144.92,Entrepot Sud
+C202606140345,2026-06-14,CL0011,Plante verte,Maison,5,38.83,Entrepot Nord
+C202606140346,2026-06-14,CL0021,Casque audio,Electronique,5,54.42,Entrepot Sud
+C202606140347,2026-06-14,CL0097,Plante verte,Maison,5,24.01,Entrepot Nord
+C202606140348,2026-06-14,CL0394,Plante verte,Maison,4,21.62,Entrepot Nord
+C202606140349,2026-06-14,CL0013,Livre,Culture,4,18.66,Entrepot Sud
+C202606140350,2026-06-14,CL0298,Chaise bureau,Mobilier,5,127.88,Entrepot Sud
+C202606140351,2026-06-14,CL0291,Livre,Culture,4,15.74,Entrepot Est
+C202606140352,2026-06-14,CL0125,Console jeux,Electronique,5,225.78,Entrepot Sud
+C202606140353,2026-06-14,CL0144,Livre,Culture,3,19.16,Entrepot Est
+C202606140354,2026-06-14,CL0125,Console jeux,Electronique,5,393.8,Entrepot Nord
+C202606140355,2026-06-14,CL0284,Console jeux,Electronique,5,261.04,Entrepot Nord
+C202606140356,2026-06-14,CL0119,Livre,Culture,5,11.03,Entrepot Nord
+C202606140357,2026-06-14,CL0385,Chaise bureau,Mobilier,4,76.77,Entrepot Nord
+C202606140358,2026-06-14,CL0118,Chaise bureau,Mobilier,5,95.0,Entrepot Nord
+C202606140359,2026-06-14,CL0007,Chaise bureau,Mobilier,2,206.13,Entrepot Nord
+C202606140360,2026-06-14,CL0247,Console jeux,Electronique,5,239.64,Entrepot Sud
+C202606140361,2026-06-14,CL0194,Livre,Culture,2,20.45,Entrepot Sud
+C202606140362,2026-06-14,CL0166,Casque audio,Electronique,5,95.98,Entrepot Nord
+C202606140363,2026-06-14,CL0177,Plante verte,Maison,1,37.95,Entrepot Est
+C202606140364,2026-06-14,CL0227,Plante verte,Maison,2,26.88,Entrepot Nord
+C202606140365,2026-06-14,CL0010,Livre,Culture,3,12.03,Entrepot Sud
+C202606140366,2026-06-14,CL0207,Plante verte,Maison,5,17.97,Entrepot Est
+C202606140367,2026-06-14,CL0009,Chaise bureau,Mobilier,4,150.91,Entrepot Nord
+C202606140368,2026-06-14,CL0219,Casque audio,Electronique,3,72.49,Entrepot Nord
+C202606140369,2026-06-14,CL0211,Chaise bureau,Mobilier,4,162.8,Entrepot Nord
+C202606140370,2026-06-14,CL0027,Chaise bureau,Mobilier,4,233.8,Entrepot Nord
+C202606140371,2026-06-14,CL0272,Livre,Culture,2,14.8,Entrepot Sud
+C202606140372,2026-06-14,CL0312,Chaise bureau,Mobilier,2,195.31,Entrepot Nord
+C202606140373,2026-06-14,CL0088,Plante verte,Maison,4,13.53,Entrepot Sud
+C202606140374,2026-06-14,CL0233,Livre,Culture,2,20.94,Entrepot Nord
+C202606140375,2026-06-14,CL0235,Casque audio,Electronique,2,89.72,Entrepot Nord
+C202606140376,2026-06-14,CL0137,Chaise bureau,Mobilier,1,166.92,Entrepot Nord
+C202606140377,2026-06-14,CL0331,Plante verte,Maison,2,15.35,Entrepot Nord
+C202606140378,2026-06-14,CL0118,Livre,Culture,1,22.85,Entrepot Nord
+C202606140379,2026-06-14,CL0065,Livre,Culture,2,22.36,Entrepot Nord
+C202606140380,2026-06-14,CL0224,Casque audio,Electronique,2,114.37,Entrepot Sud
+C202606140381,2026-06-14,CL0327,Plante verte,Maison,4,21.31,Entrepot Nord
+C202606140382,2026-06-14,CL0326,Livre,Culture,3,12.72,Entrepot Nord
+C202606140383,2026-06-14,CL0137,Livre,Culture,4,11.04,Entrepot Sud
+C202606140384,2026-06-14,CL0282,Livre,Culture,5,8.35,Entrepot Sud
+C202606140385,2026-06-14,CL0130,Casque audio,Electronique,2,76.25,Entrepot Sud
+C202606140386,2026-06-14,CL0216,Livre,Culture,1,21.36,Entrepot Est
+C202606140387,2026-06-14,CL0054,Livre,Culture,4,17.7,Entrepot Nord
+C202606140388,2026-06-14,CL0332,Casque audio,Electronique,5,74.7,Entrepot Nord
+C202606140389,2026-06-14,CL0114,Plante verte,Maison,1,21.85,Entrepot Sud
+C202606140390,2026-06-14,CL0049,Plante verte,Maison,5,13.12,Entrepot Sud
+C202606140391,2026-06-14,CL0076,Console jeux,Electronique,1,446.47,Entrepot Nord
+C202606140392,2026-06-14,CL0166,Console jeux,Electronique,4,348.3,Entrepot Sud
+C202606140393,2026-06-14,CL0309,Console jeux,Electronique,4,228.86,Entrepot Est
+C202606140394,2026-06-14,CL0223,Console jeux,Electronique,4,406.9,Entrepot Sud
+C202606140395,2026-06-14,CL0215,Livre,Culture,5,16.17,Entrepot Sud
+C202606140396,2026-06-14,CL0354,Console jeux,Electronique,5,443.26,Entrepot Nord
+C202606140397,2026-06-14,CL0396,Casque audio,Electronique,5,76.96,Entrepot Sud
+C202606140398,2026-06-14,CL0098,Livre,Culture,5,8.43,Entrepot Sud
+C202606140399,2026-06-14,CL0277,Livre,Culture,5,13.56,Entrepot Nord
+C202606140400,2026-06-14,CL0305,Livre,Culture,4,8.96,Entrepot Nord
+C202606140401,2026-06-14,CL0368,Plante verte,Maison,5,17.03,Entrepot Sud
+C202606140402,2026-06-14,CL0203,Casque audio,Electronique,3,85.3,Entrepot Nord
+C202606140403,2026-06-14,CL0297,Console jeux,Electronique,4,435.32,Entrepot Nord
+C202606140404,2026-06-14,CL0252,Console jeux,Electronique,5,289.87,Entrepot Est
+C202606140405,2026-06-14,CL0359,Chaise bureau,Mobilier,4,117.11,Entrepot Nord
+C202606140406,2026-06-14,CL0271,Casque audio,Electronique,3,92.86,Entrepot Nord
+C202606140407,2026-06-14,CL0058,Chaise bureau,Mobilier,5,70.21,Entrepot Sud
+C202606140408,2026-06-14,CL0045,Casque audio,Electronique,3,106.42,Entrepot Est
+C202606140409,2026-06-14,CL0240,Livre,Culture,4,16.07,Entrepot Nord
+C202606140410,2026-06-14,CL0230,Casque audio,Electronique,1,49.27,Entrepot Sud
+C202606140411,2026-06-14,CL0060,Console jeux,Electronique,3,287.85,Entrepot Est
+C202606140412,2026-06-14,CL0110,Chaise bureau,Mobilier,2,206.6,Entrepot Est
+C202606140413,2026-06-14,CL0222,Plante verte,Maison,4,33.57,Entrepot Sud
+C202606140414,2026-06-14,CL0304,Chaise bureau,Mobilier,4,111.33,Entrepot Nord
+C202606140415,2026-06-14,CL0038,Chaise bureau,Mobilier,3,93.28,Entrepot Est
+C202606140416,2026-06-14,CL0061,Console jeux,Electronique,4,275.46,Entrepot Nord
+C202606140417,2026-06-14,CL0144,Console jeux,Electronique,4,439.65,Entrepot Est
+C202606140418,2026-06-14,CL0150,Console jeux,Electronique,4,330.23,Entrepot Sud
+C202606140419,2026-06-14,CL0053,Chaise bureau,Mobilier,3,194.49,Entrepot Nord
+C202606140420,2026-06-14,CL0111,Chaise bureau,Mobilier,2,241.28,Entrepot Nord
+C202606140421,2026-06-14,CL0283,Chaise bureau,Mobilier,5,60.59,Entrepot Nord
+C202606140422,2026-06-14,CL0241,Casque audio,Electronique,2,86.8,Entrepot Nord
+C202606140423,2026-06-14,CL0252,Chaise bureau,Mobilier,5,62.86,Entrepot Nord
+C202606140424,2026-06-14,CL0241,Plante verte,Maison,2,34.79,Entrepot Est
+C202606140425,2026-06-14,CL0044,Chaise bureau,Mobilier,1,163.26,Entrepot Nord
+C202606140426,2026-06-14,CL0098,Livre,Culture,2,13.41,Entrepot Est
+C202606140427,2026-06-14,CL0359,Chaise bureau,Mobilier,3,60.74,Entrepot Nord
+C202606140428,2026-06-14,CL0137,Casque audio,Electronique,5,60.92,Entrepot Est
+C202606140429,2026-06-14,CL0290,Chaise bureau,Mobilier,5,175.39,Entrepot Est
+C202606140430,2026-06-14,CL0185,Plante verte,Maison,3,34.45,Entrepot Nord
+C202606140431,2026-06-14,CL0181,Plante verte,Maison,2,22.77,Entrepot Sud
+C202606140432,2026-06-14,CL0021,Chaise bureau,Mobilier,2,158.16,Entrepot Nord
+C202606140433,2026-06-14,CL0191,Livre,Culture,3,12.8,Entrepot Nord
+C202606140434,2026-06-14,CL0282,Console jeux,Electronique,4,393.38,Entrepot Nord
+C202606140435,2026-06-14,CL0338,Console jeux,Electronique,4,202.9,Entrepot Nord
+C202606140436,2026-06-14,CL0357,Console jeux,Electronique,5,351.54,Entrepot Nord
+C202606140437,2026-06-14,CL0021,Livre,Culture,2,9.52,Entrepot Nord
+C202606140438,2026-06-14,CL0124,Console jeux,Electronique,4,221.67,Entrepot Est
+C202606140439,2026-06-14,CL0157,Console jeux,Electronique,4,272.62,Entrepot Nord
+C202606140440,2026-06-14,CL0072,Console jeux,Electronique,1,420.87,Entrepot Sud
+C202606140441,2026-06-14,CL0341,Plante verte,Maison,3,37.27,Entrepot Nord
+C202606140442,2026-06-14,CL0198,Plante verte,Maison,1,33.12,Entrepot Sud
+C202606140443,2026-06-14,CL0357,Casque audio,Electronique,4,67.85,Entrepot Nord
+C202606140444,2026-06-14,CL0111,Livre,Culture,4,13.42,Entrepot Nord
+C202606140445,2026-06-14,CL0075,Chaise bureau,Mobilier,1,160.37,Entrepot Sud
+C202606140446,2026-06-14,CL0301,Livre,Culture,1,12.23,Entrepot Nord
+C202606140447,2026-06-14,CL0371,Plante verte,Maison,4,27.6,Entrepot Nord
+C202606140448,2026-06-14,CL0303,Livre,Culture,5,18.02,Entrepot Est
+C202606140449,2026-06-14,CL0301,Console jeux,Electronique,1,271.32,Entrepot Nord
+C202606140450,2026-06-14,CL0223,Console jeux,Electronique,3,383.94,Entrepot Sud
+C202606140451,2026-06-14,CL0326,Livre,Culture,3,9.55,Entrepot Nord
+C202606140452,2026-06-14,CL0187,Console jeux,Electronique,5,217.59,Entrepot Nord
+C202606140453,2026-06-14,CL0121,Plante verte,Maison,4,35.87,Entrepot Sud
+C202606140454,2026-06-14,CL0119,Chaise bureau,Mobilier,3,153.94,Entrepot Est
+C202606140455,2026-06-14,CL0219,Console jeux,Electronique,3,274.12,Entrepot Sud
+C202606140456,2026-06-14,CL0288,Livre,Culture,4,10.16,Entrepot Sud
+C202606140457,2026-06-14,CL0364,Console jeux,Electronique,1,225.51,Entrepot Sud
+C202606140458,2026-06-14,CL0020,Livre,Culture,2,8.97,Entrepot Nord
+C202606140459,2026-06-14,CL0023,Console jeux,Electronique,4,205.35,Entrepot Nord
+C202606140460,2026-06-14,CL0181,Livre,Culture,1,21.7,Entrepot Sud
+C202606140461,2026-06-14,CL0270,Console jeux,Electronique,4,374.55,Entrepot Nord
+C202606140462,2026-06-14,CL0115,Console jeux,Electronique,4,283.7,Entrepot Nord
+C202606140463,2026-06-14,CL0200,Plante verte,Maison,1,23.21,Entrepot Est
+C202606140464,2026-06-14,CL0273,Livre,Culture,1,9.34,Entrepot Nord
+C202606140465,2026-06-14,CL0247,Livre,Culture,1,14.85,Entrepot Est
+C202606140466,2026-06-14,CL0193,Chaise bureau,Mobilier,1,68.14,Entrepot Nord
+C202606140467,2026-06-14,CL0368,Chaise bureau,Mobilier,2,65.99,Entrepot Sud
+C202606140468,2026-06-14,CL0160,Console jeux,Electronique,5,366.28,Entrepot Nord
+C202606140469,2026-06-14,CL0182,Livre,Culture,5,19.95,Entrepot Sud
+C202606140470,2026-06-14,CL0154,Casque audio,Electronique,2,109.92,Entrepot Sud
+C202606140471,2026-06-14,CL0006,Chaise bureau,Mobilier,4,191.47,Entrepot Est
+C202606140472,2026-06-14,CL0058,Casque audio,Electronique,2,99.03,Entrepot Sud
+C202606140473,2026-06-14,CL0199,Chaise bureau,Mobilier,4,222.8,Entrepot Nord
+C202606140474,2026-06-14,CL0287,Chaise bureau,Mobilier,4,244.24,Entrepot Est
+C202606140475,2026-06-14,CL0221,Plante verte,Maison,5,30.49,Entrepot Est
+C202606140476,2026-06-14,CL0185,Casque audio,Electronique,3,104.79,Entrepot Nord
+C202606140477,2026-06-14,CL0055,Livre,Culture,2,12.35,Entrepot Nord
+C202606140478,2026-06-14,CL0382,Chaise bureau,Mobilier,5,215.88,Entrepot Sud
+C202606140479,2026-06-14,CL0124,Plante verte,Maison,4,26.57,Entrepot Nord
+C202606140480,2026-06-14,CL0124,Chaise bureau,Mobilier,2,127.84,Entrepot Sud
+C202606140481,2026-06-14,CL0037,Livre,Culture,2,15.26,Entrepot Sud
+C202606140482,2026-06-14,CL0057,Livre,Culture,5,11.32,Entrepot Nord
+C202606140483,2026-06-14,CL0006,Casque audio,Electronique,2,117.92,Entrepot Sud
+C202606140484,2026-06-14,CL0280,Console jeux,Electronique,2,301.01,Entrepot Sud
+C202606140485,2026-06-14,CL0178,Plante verte,Maison,3,27.99,Entrepot Sud
+C202606140486,2026-06-14,CL0155,Livre,Culture,1,8.64,Entrepot Nord
+C202606140487,2026-06-14,CL0355,Plante verte,Maison,5,33.55,Entrepot Est
+C202606140488,2026-06-14,CL0232,Chaise bureau,Mobilier,2,243.62,Entrepot Nord
+C202606140489,2026-06-14,CL0384,Console jeux,Electronique,1,414.45,Entrepot Est
+C202606140490,2026-06-14,CL0380,Chaise bureau,Mobilier,3,105.85,Entrepot Nord
+C202606140491,2026-06-14,CL0273,Chaise bureau,Mobilier,3,140.72,Entrepot Est
+C202606140492,2026-06-14,CL0233,Console jeux,Electronique,1,391.48,Entrepot Sud
+C202606140493,2026-06-14,CL0147,Console jeux,Electronique,4,310.36,Entrepot Est
+C202606140494,2026-06-14,CL0045,Livre,Culture,3,20.67,Entrepot Sud
+C202606140495,2026-06-14,CL0362,Chaise bureau,Mobilier,5,155.91,Entrepot Nord
+C202606140496,2026-06-14,CL0143,Livre,Culture,1,20.71,Entrepot Nord
+C202606140497,2026-06-14,CL0028,Casque audio,Electronique,3,77.08,Entrepot Nord
+C202606140498,2026-06-14,CL0049,Console jeux,Electronique,4,433.73,Entrepot Nord
+C202606140499,2026-06-14,CL0346,Chaise bureau,Mobilier,4,173.23,Entrepot Nord
+C202606140500,2026-06-14,CL0182,Console jeux,Electronique,5,441.71,Entrepot Sud
+C202606140501,2026-06-14,CL0333,Livre,Culture,1,18.62,Entrepot Nord
+C202606140502,2026-06-14,CL0238,Plante verte,Maison,2,14.86,Entrepot Est
+C202606140503,2026-06-14,CL0214,Livre,Culture,4,22.86,Entrepot Sud
+C202606140504,2026-06-14,CL0238,Console jeux,Electronique,4,363.07,Entrepot Sud
+C202606140505,2026-06-14,CL0054,Livre,Culture,3,19.74,Entrepot Nord
+C202606140506,2026-06-14,CL0205,Console jeux,Electronique,4,371.16,Entrepot Nord
+C202606140507,2026-06-14,CL0370,Plante verte,Maison,5,23.29,Entrepot Est
+C202606140508,2026-06-14,CL0345,Chaise bureau,Mobilier,4,226.95,Entrepot Nord
+C202606140509,2026-06-14,CL0055,Livre,Culture,4,16.03,Entrepot Sud
+C202606140510,2026-06-14,CL0177,Plante verte,Maison,1,16.85,Entrepot Sud
+C202606140511,2026-06-14,CL0196,Chaise bureau,Mobilier,1,208.74,Entrepot Nord
+C202606140512,2026-06-14,CL0176,Console jeux,Electronique,1,312.12,Entrepot Est
+C202606140513,2026-06-14,CL0188,Livre,Culture,5,24.59,Entrepot Est
+C202606140514,2026-06-14,CL0343,Plante verte,Maison,5,30.55,Entrepot Sud
+C202606140515,2026-06-14,CL0289,Chaise bureau,Mobilier,4,152.06,Entrepot Nord
+C202606140516,2026-06-14,CL0291,Plante verte,Maison,1,12.35,Entrepot Nord
+C202606140517,2026-06-14,CL0270,Livre,Culture,1,16.92,Entrepot Sud
+C202606140518,2026-06-14,CL0110,Plante verte,Maison,4,30.75,Entrepot Nord
+C202606140519,2026-06-14,CL0276,Livre,Culture,1,20.23,Entrepot Est
+C202606140520,2026-06-14,CL0125,Plante verte,Maison,3,23.17,Entrepot Nord
+C202606140521,2026-06-14,CL0290,Casque audio,Electronique,3,109.75,Entrepot Nord
+C202606140522,2026-06-14,CL0321,Plante verte,Maison,4,12.24,Entrepot Sud
+C202606140523,2026-06-14,CL0135,Console jeux,Electronique,3,447.66,Entrepot Est
+C202606140524,2026-06-14,CL0352,Chaise bureau,Mobilier,1,121.89,Entrepot Nord
+C202606140525,2026-06-14,CL0260,Console jeux,Electronique,2,298.32,Entrepot Nord
+C202606140526,2026-06-14,CL0231,Casque audio,Electronique,1,110.09,Entrepot Sud
+C202606140527,2026-06-14,CL0046,Console jeux,Electronique,2,234.65,Entrepot Nord
+C202606140528,2026-06-14,CL0155,Plante verte,Maison,5,20.76,Entrepot Nord
+C202606140529,2026-06-14,CL0151,Chaise bureau,Mobilier,3,236.89,Entrepot Nord
+C202606140530,2026-06-14,CL0313,Plante verte,Maison,5,13.27,Entrepot Est
+C202606140531,2026-06-14,CL0169,Livre,Culture,5,23.84,Entrepot Est
+C202606140532,2026-06-14,CL0194,Console jeux,Electronique,2,360.45,Entrepot Nord
+C202606140533,2026-06-14,CL0031,Livre,Culture,5,19.49,Entrepot Est
+C202606140534,2026-06-14,CL0002,Casque audio,Electronique,3,70.73,Entrepot Est
+C202606140535,2026-06-14,CL0340,Livre,Culture,1,10.11,Entrepot Est
+C202606140536,2026-06-14,CL0126,Casque audio,Electronique,4,104.07,Entrepot Nord
+C202606140537,2026-06-14,CL0120,Console jeux,Electronique,5,301.56,Entrepot Sud
+C202606140538,2026-06-14,CL0339,Chaise bureau,Mobilier,2,114.95,Entrepot Nord
+C202606140539,2026-06-14,CL0339,Plante verte,Maison,4,20.5,Entrepot Sud
+C202606140540,2026-06-14,CL0022,Casque audio,Electronique,3,99.63,Entrepot Nord
+C202606140541,2026-06-14,CL0126,Console jeux,Electronique,2,271.28,Entrepot Nord
+C202606140542,2026-06-14,CL0149,Casque audio,Electronique,3,87.69,Entrepot Nord
+C202606140543,2026-06-14,CL0218,Chaise bureau,Mobilier,5,121.47,Entrepot Nord
+C202606140544,2026-06-14,CL0108,Casque audio,Electronique,5,115.07,Entrepot Est
+C202606140545,2026-06-14,CL0003,Plante verte,Maison,5,19.31,Entrepot Sud
+C202606140546,2026-06-14,CL0063,Chaise bureau,Mobilier,2,208.06,Entrepot Est
+C202606140547,2026-06-14,CL0261,Plante verte,Maison,5,24.1,Entrepot Sud
+C202606140548,2026-06-14,CL0065,Plante verte,Maison,1,26.46,Entrepot Nord
+C202606140549,2026-06-14,CL0255,Console jeux,Electronique,4,266.39,Entrepot Sud
+C202606140550,2026-06-14,CL0051,Chaise bureau,Mobilier,2,145.12,Entrepot Nord
+C202606140551,2026-06-14,CL0343,Casque audio,Electronique,2,51.18,Entrepot Nord
+C202606140552,2026-06-14,CL0175,Casque audio,Electronique,1,89.67,Entrepot Sud
+C202606140553,2026-06-14,CL0046,Plante verte,Maison,5,28.41,Entrepot Sud
+C202606140554,2026-06-14,CL0349,Console jeux,Electronique,3,397.38,Entrepot Sud
+C202606140555,2026-06-14,CL0021,Livre,Culture,2,14.96,Entrepot Sud
+C202606140556,2026-06-14,CL0137,Casque audio,Electronique,1,52.66,Entrepot Sud
+C202606140557,2026-06-14,CL0376,Chaise bureau,Mobilier,2,187.78,Entrepot Nord
+C202606140558,2026-06-14,CL0194,Console jeux,Electronique,5,268.4,Entrepot Nord
+C202606140559,2026-06-14,CL0348,Casque audio,Electronique,2,75.37,Entrepot Sud
+C202606140560,2026-06-14,CL0220,Livre,Culture,3,10.76,Entrepot Sud
+C202606140561,2026-06-14,CL0370,Chaise bureau,Mobilier,1,199.46,Entrepot Nord
+C202606140562,2026-06-14,CL0045,Livre,Culture,2,12.32,Entrepot Nord
+C202606140563,2026-06-14,CL0336,Livre,Culture,3,8.41,Entrepot Nord
+C202606140564,2026-06-14,CL0126,Chaise bureau,Mobilier,3,84.54,Entrepot Nord
+C202606140565,2026-06-14,CL0073,Livre,Culture,2,19.69,Entrepot Nord
+C202606140566,2026-06-14,CL0219,Plante verte,Maison,5,32.09,Entrepot Nord
+C202606140567,2026-06-14,CL0270,Livre,Culture,3,14.31,Entrepot Nord
+C202606140568,2026-06-14,CL0095,Livre,Culture,1,18.12,Entrepot Nord
+C202606140569,2026-06-14,CL0106,Casque audio,Electronique,1,93.14,Entrepot Nord
+C202606140570,2026-06-14,CL0095,Console jeux,Electronique,2,344.09,Entrepot Sud
+C202606140571,2026-06-14,CL0329,Casque audio,Electronique,3,72.77,Entrepot Est
+C202606140572,2026-06-14,CL0068,Casque audio,Electronique,1,65.51,Entrepot Est
+C202606140573,2026-06-14,CL0277,Console jeux,Electronique,5,440.02,Entrepot Nord
+C202606140574,2026-06-14,CL0069,Console jeux,Electronique,4,333.61,Entrepot Est
+C202606140575,2026-06-14,CL0173,Livre,Culture,4,18.2,Entrepot Est
+C202606140576,2026-06-14,CL0191,Plante verte,Maison,4,34.76,Entrepot Nord
+C202606140577,2026-06-14,CL0392,Console jeux,Electronique,2,322.38,Entrepot Nord
+C202606140578,2026-06-14,CL0071,Plante verte,Maison,4,18.66,Entrepot Nord
+C202606140579,2026-06-14,CL0346,Casque audio,Electronique,2,104.8,Entrepot Est
+C202606140580,2026-06-14,CL0176,Livre,Culture,4,12.31,Entrepot Sud
+C202606140581,2026-06-14,CL0357,Console jeux,Electronique,2,290.74,Entrepot Nord
+C202606140582,2026-06-14,CL0221,Console jeux,Electronique,4,216.83,Entrepot Est
+C202606140583,2026-06-14,CL0086,Plante verte,Maison,2,26.14,Entrepot Sud
+C202606140584,2026-06-14,CL0182,Chaise bureau,Mobilier,4,155.19,Entrepot Nord
+C202606140585,2026-06-14,CL0193,Console jeux,Electronique,5,254.55,Entrepot Nord
+C202606140586,2026-06-14,CL0255,Plante verte,Maison,5,31.31,Entrepot Sud
+C202606140587,2026-06-14,CL0272,Casque audio,Electronique,1,55.65,Entrepot Nord
+C202606140588,2026-06-14,CL0099,Plante verte,Maison,2,21.93,Entrepot Sud
+C202606140589,2026-06-14,CL0231,Livre,Culture,2,19.46,Entrepot Est
+C202606140590,2026-06-14,CL0178,Livre,Culture,5,9.11,Entrepot Nord
+C202606140591,2026-06-14,CL0247,Casque audio,Electronique,1,97.78,Entrepot Nord
+C202606140592,2026-06-14,CL0331,Chaise bureau,Mobilier,2,202.16,Entrepot Sud
+C202606140593,2026-06-14,CL0144,Chaise bureau,Mobilier,1,70.39,Entrepot Nord
+C202606140594,2026-06-14,CL0097,Console jeux,Electronique,5,297.93,Entrepot Nord
+C202606140595,2026-06-14,CL0136,Casque audio,Electronique,4,105.53,Entrepot Nord
+C202606140596,2026-06-14,CL0170,Console jeux,Electronique,5,415.52,Entrepot Sud
+C202606140597,2026-06-14,CL0254,Livre,Culture,1,19.18,Entrepot Nord
+C202606140598,2026-06-14,CL0325,Console jeux,Electronique,3,390.27,Entrepot Sud
+C202606140599,2026-06-14,CL0016,Livre,Culture,5,10.79,Entrepot Sud
+C202606140600,2026-06-14,CL0018,Casque audio,Electronique,3,90.94,Entrepot Sud
+C202606140601,2026-06-14,CL0283,Casque audio,Electronique,1,113.36,Entrepot Nord
+C202606140602,2026-06-14,CL0191,Plante verte,Maison,1,17.9,Entrepot Nord
+C202606140603,2026-06-14,CL0227,Chaise bureau,Mobilier,2,75.68,Entrepot Sud
+C202606140604,2026-06-14,CL0183,Plante verte,Maison,3,36.01,Entrepot Nord
+C202606140605,2026-06-14,CL0304,Livre,Culture,5,15.06,Entrepot Nord
+C202606140606,2026-06-14,CL0020,Casque audio,Electronique,5,76.25,Entrepot Nord
+C202606140607,2026-06-14,CL0216,Livre,Culture,5,24.81,Entrepot Est
+C202606140608,2026-06-14,CL0291,Casque audio,Electronique,2,109.32,Entrepot Sud
+C202606140609,2026-06-14,CL0093,Console jeux,Electronique,1,350.38,Entrepot Est
+C202606140610,2026-06-14,CL0248,Livre,Culture,4,11.29,Entrepot Sud
+C202606140611,2026-06-14,CL0125,Plante verte,Maison,5,28.15,Entrepot Est
+C202606140612,2026-06-14,CL0154,Livre,Culture,4,19.17,Entrepot Est
+C202606140613,2026-06-14,CL0325,Livre,Culture,3,23.03,Entrepot Sud
+C202606140614,2026-06-14,CL0133,Console jeux,Electronique,2,390.41,Entrepot Nord
+C202606140615,2026-06-14,CL0366,Chaise bureau,Mobilier,1,129.7,Entrepot Nord
+C202606140616,2026-06-14,CL0175,Livre,Culture,4,21.02,Entrepot Nord
+C202606140617,2026-06-14,CL0120,Chaise bureau,Mobilier,2,202.23,Entrepot Est
+C202606140618,2026-06-14,CL0169,Plante verte,Maison,1,18.49,Entrepot Est
+C202606140619,2026-06-14,CL0144,Console jeux,Electronique,1,258.64,Entrepot Sud
+C202606140620,2026-06-14,CL0103,Casque audio,Electronique,5,100.77,Entrepot Nord
+C202606140621,2026-06-14,CL0333,Casque audio,Electronique,1,71.19,Entrepot Nord
+C202606140622,2026-06-14,CL0089,Plante verte,Maison,1,36.18,Entrepot Nord
+C202606140623,2026-06-14,CL0143,Livre,Culture,5,12.55,Entrepot Est
+C202606140624,2026-06-14,CL0072,Chaise bureau,Mobilier,2,182.28,Entrepot Sud
+C202606140625,2026-06-14,CL0045,Console jeux,Electronique,5,332.77,Entrepot Nord
+C202606140626,2026-06-14,CL0287,Livre,Culture,3,20.59,Entrepot Nord
+C202606140627,2026-06-14,CL0368,Chaise bureau,Mobilier,5,247.43,Entrepot Sud
+C202606140628,2026-06-14,CL0202,Chaise bureau,Mobilier,3,148.25,Entrepot Nord
+C202606140629,2026-06-14,CL0017,Plante verte,Maison,2,25.78,Entrepot Nord
+C202606140630,2026-06-14,CL0306,Casque audio,Electronique,5,58.81,Entrepot Est
+C202606140631,2026-06-14,CL0253,Casque audio,Electronique,1,98.59,Entrepot Nord
+C202606140632,2026-06-14,CL0071,Casque audio,Electronique,2,94.12,Entrepot Nord
+C202606140633,2026-06-14,CL0284,Console jeux,Electronique,4,214.15,Entrepot Est
+C202606140634,2026-06-14,CL0079,Livre,Culture,2,24.79,Entrepot Nord
+C202606140635,2026-06-14,CL0132,Chaise bureau,Mobilier,1,123.88,Entrepot Sud
+C202606140636,2026-06-14,CL0371,Casque audio,Electronique,2,66.26,Entrepot Nord
+C202606140637,2026-06-14,CL0296,Casque audio,Electronique,2,97.9,Entrepot Est
+C202606140638,2026-06-14,CL0120,Console jeux,Electronique,5,379.28,Entrepot Est
+C202606140639,2026-06-14,CL0134,Plante verte,Maison,1,32.39,Entrepot Sud
+C202606140640,2026-06-14,CL0003,Chaise bureau,Mobilier,2,143.5,Entrepot Nord
+C202606140641,2026-06-14,CL0025,Livre,Culture,5,19.28,Entrepot Nord
+C202606140642,2026-06-14,CL0349,Casque audio,Electronique,2,93.92,Entrepot Est
+C202606140643,2026-06-14,CL0273,Casque audio,Electronique,3,107.86,Entrepot Sud
+C202606140644,2026-06-14,CL0057,Livre,Culture,3,12.02,Entrepot Nord
+C202606140645,2026-06-14,CL0221,Console jeux,Electronique,4,342.09,Entrepot Est
+C202606140646,2026-06-14,CL0144,Chaise bureau,Mobilier,3,215.32,Entrepot Sud
+C202606140647,2026-06-14,CL0142,Livre,Culture,5,8.17,Entrepot Nord
+C202606140648,2026-06-14,CL0298,Livre,Culture,2,19.08,Entrepot Nord
+C202606140649,2026-06-14,CL0106,Chaise bureau,Mobilier,1,71.53,Entrepot Nord
+C202606140650,2026-06-14,CL0047,Chaise bureau,Mobilier,3,74.98,Entrepot Nord
+C202606140651,2026-06-14,CL0365,Chaise bureau,Mobilier,1,88.52,Entrepot Nord
+C202606140652,2026-06-14,CL0169,Livre,Culture,1,11.03,Entrepot Sud
+C202606140653,2026-06-14,CL0136,Chaise bureau,Mobilier,1,152.95,Entrepot Sud
+C202606140654,2026-06-14,CL0281,Casque audio,Electronique,4,58.57,Entrepot Est
+C202606140655,2026-06-14,CL0178,Console jeux,Electronique,5,402.65,Entrepot Sud
+C202606140656,2026-06-14,CL0154,Casque audio,Electronique,3,103.6,Entrepot Est
+C202606140657,2026-06-14,CL0318,Plante verte,Maison,5,24.61,Entrepot Est
+C202606140658,2026-06-14,CL0258,Console jeux,Electronique,5,411.7,Entrepot Nord
+C202606140659,2026-06-14,CL0125,Chaise bureau,Mobilier,4,84.93,Entrepot Nord
+C202606140660,2026-06-14,CL0233,Casque audio,Electronique,4,86.64,Entrepot Sud
+C202606140661,2026-06-14,CL0216,Console jeux,Electronique,2,256.32,Entrepot Est
+C202606140662,2026-06-14,CL0400,Console jeux,Electronique,4,237.03,Entrepot Est
+C202606140663,2026-06-14,CL0270,Casque audio,Electronique,4,106.73,Entrepot Sud
+C202606140664,2026-06-14,CL0132,Plante verte,Maison,2,20.44,Entrepot Nord
+C202606140665,2026-06-14,CL0156,Livre,Culture,5,13.94,Entrepot Sud
+C202606140666,2026-06-14,CL0048,Casque audio,Electronique,1,116.72,Entrepot Nord
+C202606140667,2026-06-14,CL0008,Casque audio,Electronique,5,107.12,Entrepot Nord
+C202606140668,2026-06-14,CL0231,Chaise bureau,Mobilier,5,194.85,Entrepot Est
+C202606140669,2026-06-14,CL0130,Casque audio,Electronique,2,108.45,Entrepot Nord
+C202606140670,2026-06-14,CL0130,Livre,Culture,4,22.39,Entrepot Sud
+C202606140671,2026-06-14,CL0063,Livre,Culture,1,12.62,Entrepot Nord
+C202606140672,2026-06-14,CL0295,Plante verte,Maison,3,14.67,Entrepot Nord
+C202606140673,2026-06-14,CL0151,Livre,Culture,4,11.1,Entrepot Nord
+C202606140674,2026-06-14,CL0139,Livre,Culture,2,21.08,Entrepot Nord
+C202606140675,2026-06-14,CL0311,Chaise bureau,Mobilier,2,121.89,Entrepot Nord
+C202606140676,2026-06-14,CL0068,Console jeux,Electronique,3,378.76,Entrepot Nord
+C202606140677,2026-06-14,CL0189,Livre,Culture,5,23.48,Entrepot Est
+C202606140678,2026-06-14,CL0325,Livre,Culture,5,10.09,Entrepot Sud
+C202606140679,2026-06-14,CL0273,Console jeux,Electronique,5,227.25,Entrepot Nord
+C202606140680,2026-06-14,CL0286,Plante verte,Maison,4,19.31,Entrepot Nord
+C202606140681,2026-06-14,CL0307,Plante verte,Maison,4,34.51,Entrepot Nord
+C202606140682,2026-06-14,CL0016,Casque audio,Electronique,3,45.64,Entrepot Nord
+C202606140683,2026-06-14,CL0080,Plante verte,Maison,4,23.41,Entrepot Est
+C202606140684,2026-06-14,CL0365,Casque audio,Electronique,4,112.72,Entrepot Sud
+C202606140685,2026-06-14,CL0370,Chaise bureau,Mobilier,2,229.96,Entrepot Sud
+C202606140686,2026-06-14,CL0380,Console jeux,Electronique,1,377.62,Entrepot Est
+C202606140687,2026-06-14,CL0166,Casque audio,Electronique,3,109.64,Entrepot Nord
+C202606140688,2026-06-14,CL0104,Casque audio,Electronique,4,63.57,Entrepot Sud
+C202606140689,2026-06-14,CL0212,Livre,Culture,2,12.24,Entrepot Nord
+C202606140690,2026-06-14,CL0019,Plante verte,Maison,5,22.72,Entrepot Nord
+C202606140691,2026-06-14,CL0247,Chaise bureau,Mobilier,3,156.55,Entrepot Nord
+C202606140692,2026-06-14,CL0031,Plante verte,Maison,4,25.83,Entrepot Nord
+C202606140693,2026-06-14,CL0068,Console jeux,Electronique,3,410.66,Entrepot Nord
+C202606140694,2026-06-14,CL0311,Plante verte,Maison,5,19.05,Entrepot Sud
+C202606140695,2026-06-14,CL0264,Console jeux,Electronique,2,343.43,Entrepot Sud
+C202606140696,2026-06-14,CL0213,Casque audio,Electronique,4,107.33,Entrepot Nord
+C202606140697,2026-06-14,CL0243,Chaise bureau,Mobilier,3,143.81,Entrepot Nord
+C202606140698,2026-06-14,CL0290,Casque audio,Electronique,2,55.57,Entrepot Sud
+C202606140699,2026-06-14,CL0071,Plante verte,Maison,1,24.62,Entrepot Nord
+C202606140700,2026-06-14,CL0175,Console jeux,Electronique,3,445.03,Entrepot Sud
+C202606140701,2026-06-14,CL0272,Plante verte,Maison,1,15.27,Entrepot Est
+C202606140702,2026-06-14,CL0399,Chaise bureau,Mobilier,2,91.02,Entrepot Sud
+C202606140703,2026-06-14,CL0107,Livre,Culture,2,24.95,Entrepot Sud
+C202606140704,2026-06-14,CL0122,Livre,Culture,5,23.78,Entrepot Nord
+C202606140705,2026-06-14,CL0214,Console jeux,Electronique,2,358.51,Entrepot Nord
+C202606140706,2026-06-14,CL0246,Casque audio,Electronique,2,78.13,Entrepot Nord
+C202606140707,2026-06-14,CL0027,Chaise bureau,Mobilier,4,139.56,Entrepot Nord
+C202606140708,2026-06-14,CL0132,Chaise bureau,Mobilier,1,150.22,Entrepot Nord
+C202606140709,2026-06-14,CL0315,Casque audio,Electronique,3,80.97,Entrepot Est
+C202606140710,2026-06-14,CL0269,Chaise bureau,Mobilier,4,163.19,Entrepot Sud
+C202606140711,2026-06-14,CL0107,Casque audio,Electronique,3,56.73,Entrepot Nord
+C202606140712,2026-06-14,CL0085,Plante verte,Maison,3,22.91,Entrepot Est
+C202606140713,2026-06-14,CL0255,Livre,Culture,1,16.68,Entrepot Sud
+C202606140714,2026-06-14,CL0022,Console jeux,Electronique,3,311.91,Entrepot Nord
+C202606140715,2026-06-14,CL0043,Livre,Culture,3,14.25,Entrepot Nord
+C202606140716,2026-06-14,CL0120,Livre,Culture,2,18.18,Entrepot Nord
+C202606140717,2026-06-14,CL0122,Casque audio,Electronique,4,63.61,Entrepot Nord
+C202606140718,2026-06-14,CL0140,Casque audio,Electronique,5,104.68,Entrepot Est
+C202606140719,2026-06-14,CL0336,Plante verte,Maison,1,38.81,Entrepot Est
+C202606140720,2026-06-14,CL0107,Chaise bureau,Mobilier,2,191.16,Entrepot Nord
+C202606140721,2026-06-14,CL0122,Console jeux,Electronique,5,353.2,Entrepot Nord
+C202606140722,2026-06-14,CL0126,Plante verte,Maison,3,34.31,Entrepot Sud
+C202606140723,2026-06-14,CL0248,Chaise bureau,Mobilier,4,143.63,Entrepot Nord
+C202606140724,2026-06-14,CL0280,Console jeux,Electronique,3,388.83,Entrepot Sud
+C202606140725,2026-06-14,CL0373,Livre,Culture,5,15.81,Entrepot Sud
+C202606140726,2026-06-14,CL0192,Console jeux,Electronique,2,429.28,Entrepot Sud
+C202606140727,2026-06-14,CL0250,Chaise bureau,Mobilier,4,196.54,Entrepot Nord
+C202606140728,2026-06-14,CL0194,Plante verte,Maison,5,26.56,Entrepot Est
+C202606140729,2026-06-14,CL0354,Chaise bureau,Mobilier,3,194.69,Entrepot Est
+C202606140730,2026-06-14,CL0141,Livre,Culture,4,15.94,Entrepot Nord
+C202606140731,2026-06-14,CL0303,Console jeux,Electronique,1,265.12,Entrepot Sud
+C202606140732,2026-06-14,CL0207,Chaise bureau,Mobilier,3,101.6,Entrepot Nord
+C202606140733,2026-06-14,CL0178,Console jeux,Electronique,1,307.59,Entrepot Nord
+C202606140734,2026-06-14,CL0205,Chaise bureau,Mobilier,2,198.6,Entrepot Sud
+C202606140735,2026-06-14,CL0344,Console jeux,Electronique,5,434.44,Entrepot Nord
+C202606140736,2026-06-14,CL0133,Casque audio,Electronique,4,113.81,Entrepot Nord
+C202606140737,2026-06-14,CL0368,Chaise bureau,Mobilier,1,87.57,Entrepot Nord
+C202606140738,2026-06-14,CL0074,Plante verte,Maison,5,27.94,Entrepot Est
+C202606140739,2026-06-14,CL0089,Chaise bureau,Mobilier,1,169.17,Entrepot Sud
+C202606140740,2026-06-14,CL0053,Chaise bureau,Mobilier,5,131.91,Entrepot Est
+C202606140741,2026-06-14,CL0326,Chaise bureau,Mobilier,1,108.83,Entrepot Nord
+C202606140742,2026-06-14,CL0013,Livre,Culture,1,19.93,Entrepot Sud
+C202606140743,2026-06-14,CL0143,Livre,Culture,4,18.05,Entrepot Sud
+C202606140744,2026-06-14,CL0203,Chaise bureau,Mobilier,4,233.61,Entrepot Nord
+C202606140745,2026-06-14,CL0090,Console jeux,Electronique,5,418.31,Entrepot Sud
+C202606140746,2026-06-14,CL0061,Console jeux,Electronique,3,260.65,Entrepot Nord
+C202606140747,2026-06-14,CL0013,Console jeux,Electronique,3,253.93,Entrepot Nord
+C202606140748,2026-06-14,CL0181,Chaise bureau,Mobilier,2,246.56,Entrepot Sud
+C202606140749,2026-06-14,CL0392,Livre,Culture,1,16.88,Entrepot Nord
+C202606140750,2026-06-14,CL0229,Chaise bureau,Mobilier,3,105.83,Entrepot Est
+C202606140751,2026-06-14,CL0147,Console jeux,Electronique,4,348.44,Entrepot Nord
+C202606140752,2026-06-14,CL0308,Casque audio,Electronique,1,79.1,Entrepot Est
+C202606140753,2026-06-14,CL0079,Console jeux,Electronique,1,433.22,Entrepot Nord
+C202606140754,2026-06-14,CL0285,Livre,Culture,1,21.85,Entrepot Est
+C202606140755,2026-06-14,CL0360,Livre,Culture,5,24.8,Entrepot Nord
+C202606140756,2026-06-14,CL0076,Livre,Culture,2,11.36,Entrepot Est
+C202606140757,2026-06-14,CL0244,Plante verte,Maison,1,27.44,Entrepot Sud
+C202606140758,2026-06-14,CL0086,Livre,Culture,4,16.76,Entrepot Nord
+C202606140759,2026-06-14,CL0002,Plante verte,Maison,4,27.19,Entrepot Est
+C202606140760,2026-06-14,CL0068,Chaise bureau,Mobilier,3,226.33,Entrepot Nord
+C202606140761,2026-06-14,CL0343,Livre,Culture,3,15.62,Entrepot Est
+C202606140762,2026-06-14,CL0046,Console jeux,Electronique,5,250.4,Entrepot Sud
+C202606140763,2026-06-14,CL0180,Casque audio,Electronique,3,97.96,Entrepot Nord
+C202606140764,2026-06-14,CL0105,Console jeux,Electronique,2,330.42,Entrepot Nord
+C202606140765,2026-06-14,CL0296,Chaise bureau,Mobilier,5,62.7,Entrepot Sud
+C202606140766,2026-06-14,CL0302,Plante verte,Maison,2,17.66,Entrepot Nord
+C202606140767,2026-06-14,CL0171,Plante verte,Maison,3,27.64,Entrepot Sud
+C202606140768,2026-06-14,CL0374,Livre,Culture,2,16.52,Entrepot Est
+C202606140769,2026-06-14,CL0068,Livre,Culture,5,21.42,Entrepot Nord
+C202606140770,2026-06-14,CL0245,Casque audio,Electronique,1,63.06,Entrepot Nord
+C202606140771,2026-06-14,CL0197,Livre,Culture,4,10.47,Entrepot Nord
+C202606140772,2026-06-14,CL0371,Chaise bureau,Mobilier,2,60.97,Entrepot Nord
+C202606140773,2026-06-14,CL0097,Chaise bureau,Mobilier,1,143.79,Entrepot Nord
+C202606140774,2026-06-14,CL0207,Livre,Culture,5,24.96,Entrepot Sud
+C202606140775,2026-06-14,CL0214,Plante verte,Maison,5,17.21,Entrepot Nord
+C202606140776,2026-06-14,CL0208,Casque audio,Electronique,4,88.29,Entrepot Est
+C202606140777,2026-06-14,CL0070,Chaise bureau,Mobilier,4,130.81,Entrepot Sud
+C202606140778,2026-06-14,CL0325,Plante verte,Maison,4,27.76,Entrepot Sud
+C202606140779,2026-06-14,CL0388,Plante verte,Maison,1,17.92,Entrepot Nord
+C202606140780,2026-06-14,CL0047,Plante verte,Maison,3,13.12,Entrepot Est
+C202606140781,2026-06-14,CL0100,Chaise bureau,Mobilier,1,84.39,Entrepot Nord
+C202606140782,2026-06-14,CL0255,Console jeux,Electronique,3,377.45,Entrepot Nord
+C202606140783,2026-06-14,CL0340,Chaise bureau,Mobilier,4,191.17,Entrepot Est
+C202606140784,2026-06-14,CL0250,Livre,Culture,5,21.83,Entrepot Sud
+C202606140785,2026-06-14,CL0287,Casque audio,Electronique,2,71.8,Entrepot Sud
+C202606140786,2026-06-14,CL0047,Livre,Culture,4,8.81,Entrepot Sud
+C202606140787,2026-06-14,CL0260,Console jeux,Electronique,2,312.67,Entrepot Sud
+C202606140788,2026-06-14,CL0302,Chaise bureau,Mobilier,3,154.91,Entrepot Nord
+C202606140789,2026-06-14,CL0265,Plante verte,Maison,5,35.78,Entrepot Sud
+C202606140790,2026-06-14,CL0024,Casque audio,Electronique,5,57.49,Entrepot Sud
+C202606140791,2026-06-14,CL0293,Livre,Culture,3,24.04,Entrepot Nord
+C202606140792,2026-06-14,CL0162,Livre,Culture,3,18.5,Entrepot Est
+C202606140793,2026-06-14,CL0327,Plante verte,Maison,3,21.8,Entrepot Nord
+C202606140794,2026-06-14,CL0128,Chaise bureau,Mobilier,4,156.58,Entrepot Sud
+C202606140795,2026-06-14,CL0052,Casque audio,Electronique,3,79.49,Entrepot Nord
+C202606140796,2026-06-14,CL0133,Plante verte,Maison,2,27.21,Entrepot Nord
+C202606140797,2026-06-14,CL0079,Console jeux,Electronique,4,354.53,Entrepot Nord
+C202606140798,2026-06-14,CL0115,Plante verte,Maison,3,20.96,Entrepot Nord
+C202606140799,2026-06-14,CL0041,Plante verte,Maison,4,38.92,Entrepot Nord
+C202606140800,2026-06-14,CL0130,Livre,Culture,5,19.44,Entrepot Est
+C202606140801,2026-06-14,CL0195,Livre,Culture,3,10.13,Entrepot Nord
+C202606140802,2026-06-14,CL0382,Plante verte,Maison,4,18.72,Entrepot Nord
+C202606140803,2026-06-14,CL0203,Chaise bureau,Mobilier,2,149.9,Entrepot Sud
+C202606140804,2026-06-14,CL0297,Chaise bureau,Mobilier,3,66.66,Entrepot Sud
+C202606140805,2026-06-14,CL0095,Plante verte,Maison,4,18.34,Entrepot Nord
+C202606140806,2026-06-14,CL0210,Console jeux,Electronique,2,282.24,Entrepot Sud
+C202606140807,2026-06-14,CL0003,Chaise bureau,Mobilier,1,109.62,Entrepot Est
+C202606140808,2026-06-14,CL0109,Plante verte,Maison,2,28.16,Entrepot Nord
+C202606140809,2026-06-14,CL0388,Console jeux,Electronique,5,304.72,Entrepot Nord
+C202606140810,2026-06-14,CL0193,Livre,Culture,2,15.92,Entrepot Nord
+C202606140811,2026-06-14,CL0100,Console jeux,Electronique,2,203.14,Entrepot Nord
+C202606140812,2026-06-14,CL0099,Livre,Culture,3,20.38,Entrepot Nord
+C202606140813,2026-06-14,CL0266,Plante verte,Maison,5,21.69,Entrepot Nord
+C202606140814,2026-06-14,CL0316,Chaise bureau,Mobilier,1,82.0,Entrepot Nord
+C202606140815,2026-06-14,CL0033,Chaise bureau,Mobilier,5,199.68,Entrepot Sud
+C202606140816,2026-06-14,CL0220,Casque audio,Electronique,5,78.49,Entrepot Nord
+C202606140817,2026-06-14,CL0204,Livre,Culture,5,13.85,Entrepot Sud
+C202606140818,2026-06-14,CL0254,Plante verte,Maison,5,23.57,Entrepot Sud
+C202606140819,2026-06-14,CL0341,Plante verte,Maison,3,12.08,Entrepot Sud
+C202606140820,2026-06-14,CL0137,Livre,Culture,5,19.94,Entrepot Nord
+C202606140821,2026-06-14,CL0060,Casque audio,Electronique,1,76.41,Entrepot Nord
+C202606140822,2026-06-14,CL0202,Console jeux,Electronique,5,237.97,Entrepot Nord
+C202606140823,2026-06-14,CL0067,Livre,Culture,1,11.48,Entrepot Sud
+C202606140824,2026-06-14,CL0288,Plante verte,Maison,1,29.67,Entrepot Nord
+C202606140825,2026-06-14,CL0308,Plante verte,Maison,1,21.66,Entrepot Sud
+C202606140826,2026-06-14,CL0334,Livre,Culture,5,24.05,Entrepot Nord
+C202606140827,2026-06-14,CL0277,Chaise bureau,Mobilier,1,248.48,Entrepot Nord
+C202606140828,2026-06-14,CL0099,Livre,Culture,4,23.23,Entrepot Nord
+C202606140829,2026-06-14,CL0317,Console jeux,Electronique,3,280.57,Entrepot Est
+C202606140830,2026-06-14,CL0253,Casque audio,Electronique,1,68.25,Entrepot Nord
+C202606140831,2026-06-14,CL0228,Livre,Culture,5,12.83,Entrepot Nord
+C202606140832,2026-06-14,CL0274,Casque audio,Electronique,3,64.53,Entrepot Est
+C202606140833,2026-06-14,CL0275,Livre,Culture,1,8.48,Entrepot Est
+C202606140834,2026-06-14,CL0011,Livre,Culture,5,9.56,Entrepot Est
+C202606140835,2026-06-14,CL0393,Plante verte,Maison,5,34.21,Entrepot Nord
+C202606140836,2026-06-14,CL0309,Chaise bureau,Mobilier,4,198.3,Entrepot Nord
+C202606140837,2026-06-14,CL0097,Casque audio,Electronique,4,85.61,Entrepot Sud
+C202606140838,2026-06-14,CL0162,Plante verte,Maison,5,16.55,Entrepot Sud
+C202606140839,2026-06-14,CL0042,Casque audio,Electronique,2,92.24,Entrepot Sud
+C202606140840,2026-06-14,CL0104,Casque audio,Electronique,2,54.65,Entrepot Est
+C202606140841,2026-06-14,CL0355,Chaise bureau,Mobilier,3,73.29,Entrepot Est
+C202606140842,2026-06-14,CL0325,Casque audio,Electronique,1,46.04,Entrepot Nord
+C202606140843,2026-06-14,CL0084,Chaise bureau,Mobilier,4,209.92,Entrepot Nord
+C202606140844,2026-06-14,CL0023,Casque audio,Electronique,5,107.09,Entrepot Sud
+C202606140845,2026-06-14,CL0118,Console jeux,Electronique,4,231.87,Entrepot Nord
+C202606140846,2026-06-14,CL0006,Console jeux,Electronique,5,314.93,Entrepot Nord
+C202606140847,2026-06-14,CL0028,Livre,Culture,3,11.17,Entrepot Nord
+C202606140848,2026-06-14,CL0108,Casque audio,Electronique,1,97.33,Entrepot Est
+C202606140849,2026-06-14,CL0392,Livre,Culture,4,17.52,Entrepot Sud
+C202606140850,2026-06-14,CL0007,Chaise bureau,Mobilier,5,248.84,Entrepot Sud
+C202606140851,2026-06-14,CL0300,Plante verte,Maison,5,21.82,Entrepot Nord
+C202606140852,2026-06-14,CL0010,Console jeux,Electronique,4,429.35,Entrepot Sud
+C202606140853,2026-06-14,CL0126,Plante verte,Maison,4,33.92,Entrepot Nord
+C202606140854,2026-06-14,CL0060,Plante verte,Maison,5,12.32,Entrepot Nord
+C202606140855,2026-06-14,CL0258,Chaise bureau,Mobilier,3,173.53,Entrepot Nord
+C202606140856,2026-06-14,CL0028,Casque audio,Electronique,2,89.09,Entrepot Nord
+C202606140857,2026-06-14,CL0292,Chaise bureau,Mobilier,3,203.9,Entrepot Nord
+C202606140858,2026-06-14,CL0098,Chaise bureau,Mobilier,1,218.68,Entrepot Nord
+C202606140859,2026-06-14,CL0040,Plante verte,Maison,5,34.7,Entrepot Nord
+C202606140860,2026-06-14,CL0062,Console jeux,Electronique,5,304.85,Entrepot Sud
+C202606140861,2026-06-14,CL0300,Chaise bureau,Mobilier,2,165.48,Entrepot Sud
+C202606140862,2026-06-14,CL0027,Console jeux,Electronique,4,418.96,Entrepot Nord
+C202606140863,2026-06-14,CL0149,Plante verte,Maison,5,24.35,Entrepot Nord
+C202606140864,2026-06-14,CL0192,Livre,Culture,2,10.08,Entrepot Nord
+C202606140865,2026-06-14,CL0323,Console jeux,Electronique,4,370.32,Entrepot Sud
+C202606140866,2026-06-14,CL0337,Console jeux,Electronique,1,357.39,Entrepot Est
+C202606140867,2026-06-14,CL0258,Livre,Culture,3,8.6,Entrepot Sud
+C202606140868,2026-06-14,CL0133,Chaise bureau,Mobilier,4,61.74,Entrepot Nord
+C202606140869,2026-06-14,CL0033,Console jeux,Electronique,5,448.92,Entrepot Nord
+C202606140870,2026-06-14,CL0250,Plante verte,Maison,5,21.5,Entrepot Nord
+C202606140871,2026-06-14,CL0116,Console jeux,Electronique,2,273.25,Entrepot Nord
+C202606140872,2026-06-14,CL0087,Chaise bureau,Mobilier,3,200.41,Entrepot Nord
+C202606140873,2026-06-14,CL0146,Chaise bureau,Mobilier,2,80.68,Entrepot Est
+C202606140874,2026-06-14,CL0138,Casque audio,Electronique,3,110.19,Entrepot Sud
+C202606140875,2026-06-14,CL0375,Plante verte,Maison,4,24.99,Entrepot Sud
+C202606140876,2026-06-14,CL0171,Livre,Culture,5,22.98,Entrepot Nord
+C202606140877,2026-06-14,CL0295,Livre,Culture,5,20.14,Entrepot Est
+C202606140878,2026-06-14,CL0350,Livre,Culture,3,13.43,Entrepot Sud
+C202606140879,2026-06-14,CL0366,Casque audio,Electronique,1,67.43,Entrepot Nord
+C202606140880,2026-06-14,CL0082,Casque audio,Electronique,2,82.65,Entrepot Sud
+C202606140881,2026-06-14,CL0103,Chaise bureau,Mobilier,2,150.86,Entrepot Nord
+C202606140882,2026-06-14,CL0289,Chaise bureau,Mobilier,1,91.1,Entrepot Est
+C202606140883,2026-06-14,CL0361,Livre,Culture,3,17.31,Entrepot Est
+C202606140884,2026-06-14,CL0045,Plante verte,Maison,5,33.08,Entrepot Nord
+C202606140885,2026-06-14,CL0381,Casque audio,Electronique,3,79.4,Entrepot Sud
+C202606140886,2026-06-14,CL0324,Plante verte,Maison,4,25.59,Entrepot Nord
+C202606140887,2026-06-14,CL0129,Livre,Culture,5,13.35,Entrepot Nord
+C202606140888,2026-06-14,CL0051,Casque audio,Electronique,1,59.95,Entrepot Nord
+C202606140889,2026-06-14,CL0099,Casque audio,Electronique,5,91.12,Entrepot Sud
+C202606140890,2026-06-14,CL0008,Livre,Culture,3,22.34,Entrepot Est
+C202606140891,2026-06-14,CL0306,Plante verte,Maison,1,17.6,Entrepot Nord
+C202606140892,2026-06-14,CL0147,Casque audio,Electronique,2,108.06,Entrepot Est
+C202606140893,2026-06-14,CL0020,Livre,Culture,3,16.72,Entrepot Sud
+C202606140894,2026-06-14,CL0085,Console jeux,Electronique,3,230.89,Entrepot Nord
+C202606140895,2026-06-14,CL0186,Casque audio,Electronique,2,85.11,Entrepot Nord
+C202606140896,2026-06-14,CL0274,Chaise bureau,Mobilier,5,161.82,Entrepot Est
+C202606140897,2026-06-14,CL0228,Plante verte,Maison,1,27.34,Entrepot Nord
+C202606140898,2026-06-14,CL0394,Chaise bureau,Mobilier,3,138.94,Entrepot Nord
+C202606140899,2026-06-14,CL0399,Plante verte,Maison,1,32.55,Entrepot Est
+C202606140900,2026-06-14,CL0060,Plante verte,Maison,3,26.31,Entrepot Nord
+C202606140901,2026-06-14,CL0397,Chaise bureau,Mobilier,4,232.07,Entrepot Sud
+C202606140902,2026-06-14,CL0270,Console jeux,Electronique,5,279.36,Entrepot Nord
+C202606140903,2026-06-14,CL0394,Console jeux,Electronique,1,446.73,Entrepot Nord
+C202606140904,2026-06-14,CL0373,Console jeux,Electronique,3,253.68,Entrepot Sud
+C202606140905,2026-06-14,CL0100,Livre,Culture,1,23.27,Entrepot Est
+C202606140906,2026-06-14,CL0062,Console jeux,Electronique,3,321.29,Entrepot Nord
+C202606140907,2026-06-14,CL0136,Chaise bureau,Mobilier,1,238.9,Entrepot Est
+C202606140908,2026-06-14,CL0254,Plante verte,Maison,4,36.65,Entrepot Sud
+C202606140909,2026-06-14,CL0337,Console jeux,Electronique,3,448.34,Entrepot Nord
+C202606140910,2026-06-14,CL0325,Casque audio,Electronique,5,60.15,Entrepot Sud
+C202606140911,2026-06-14,CL0323,Livre,Culture,2,12.18,Entrepot Nord
+C202606140912,2026-06-14,CL0363,Livre,Culture,5,14.74,Entrepot Nord
+C202606140913,2026-06-14,CL0264,Chaise bureau,Mobilier,3,162.95,Entrepot Nord
+C202606140914,2026-06-14,CL0344,Livre,Culture,2,21.65,Entrepot Est
+C202606140915,2026-06-14,CL0179,Casque audio,Electronique,4,59.92,Entrepot Est
+C202606140916,2026-06-14,CL0222,Casque audio,Electronique,3,110.28,Entrepot Nord
+C202606140917,2026-06-14,CL0223,Livre,Culture,5,16.57,Entrepot Est
+C202606140918,2026-06-14,CL0237,Livre,Culture,1,15.31,Entrepot Nord
+C202606140919,2026-06-14,CL0041,Console jeux,Electronique,1,244.03,Entrepot Nord
+C202606140920,2026-06-14,CL0342,Livre,Culture,4,15.17,Entrepot Sud
+C202606140921,2026-06-14,CL0086,Casque audio,Electronique,5,67.03,Entrepot Nord
+C202606140922,2026-06-14,CL0007,Livre,Culture,2,15.18,Entrepot Nord
+C202606140923,2026-06-14,CL0306,Plante verte,Maison,1,22.29,Entrepot Est
+C202606140924,2026-06-14,CL0237,Livre,Culture,4,24.89,Entrepot Sud
+C202606140925,2026-06-14,CL0242,Chaise bureau,Mobilier,1,249.47,Entrepot Sud
+C202606140926,2026-06-14,CL0162,Livre,Culture,3,22.94,Entrepot Sud
+C202606140927,2026-06-14,CL0109,Livre,Culture,1,20.27,Entrepot Nord
+C202606140928,2026-06-14,CL0113,Casque audio,Electronique,5,50.19,Entrepot Nord
+C202606140929,2026-06-14,CL0078,Chaise bureau,Mobilier,3,192.02,Entrepot Nord
+C202606140930,2026-06-14,CL0312,Plante verte,Maison,2,16.97,Entrepot Sud
+C202606140931,2026-06-14,CL0298,Livre,Culture,5,20.64,Entrepot Nord
+C202606140932,2026-06-14,CL0087,Chaise bureau,Mobilier,3,138.72,Entrepot Est
+C202606140933,2026-06-14,CL0047,Livre,Culture,3,21.81,Entrepot Sud
+C202606140934,2026-06-14,CL0008,Livre,Culture,4,21.73,Entrepot Sud
+C202606140935,2026-06-14,CL0251,Plante verte,Maison,2,22.4,Entrepot Nord
+C202606140936,2026-06-14,CL0304,Plante verte,Maison,2,21.06,Entrepot Sud
+C202606140937,2026-06-14,CL0155,Chaise bureau,Mobilier,1,227.54,Entrepot Nord
+C202606140938,2026-06-14,CL0020,Console jeux,Electronique,4,359.77,Entrepot Est
+C202606140939,2026-06-14,CL0151,Console jeux,Electronique,4,336.65,Entrepot Nord
+C202606140940,2026-06-14,CL0315,Plante verte,Maison,3,30.35,Entrepot Nord
+C202606140941,2026-06-14,CL0010,Livre,Culture,3,16.57,Entrepot Nord
+C202606140942,2026-06-14,CL0283,Livre,Culture,1,9.28,Entrepot Nord
+C202606140943,2026-06-14,CL0241,Console jeux,Electronique,2,332.39,Entrepot Sud
+C202606140944,2026-06-14,CL0299,Chaise bureau,Mobilier,4,110.63,Entrepot Nord
+C202606140945,2026-06-14,CL0042,Plante verte,Maison,2,37.82,Entrepot Sud
+C202606140946,2026-06-14,CL0132,Livre,Culture,5,12.95,Entrepot Est
+C202606140947,2026-06-14,CL0309,Chaise bureau,Mobilier,4,96.92,Entrepot Nord
+C202606140948,2026-06-14,CL0250,Console jeux,Electronique,4,266.96,Entrepot Nord
+C202606140949,2026-06-14,CL0141,Plante verte,Maison,1,23.13,Entrepot Nord
+C202606140950,2026-06-14,CL0221,Livre,Culture,1,19.06,Entrepot Sud
+C202606140951,2026-06-14,CL0064,Casque audio,Electronique,5,67.67,Entrepot Est
+C202606140952,2026-06-14,CL0393,Console jeux,Electronique,4,386.49,Entrepot Nord
+C202606140953,2026-06-14,CL0280,Plante verte,Maison,5,38.15,Entrepot Sud
+C202606140954,2026-06-14,CL0056,Livre,Culture,4,24.16,Entrepot Est
+C202606140955,2026-06-14,CL0140,Console jeux,Electronique,4,261.37,Entrepot Nord
+C202606140956,2026-06-14,CL0384,Plante verte,Maison,4,28.44,Entrepot Nord
+C202606140957,2026-06-14,CL0386,Casque audio,Electronique,1,60.0,Entrepot Sud
+C202606140958,2026-06-14,CL0085,Casque audio,Electronique,3,57.18,Entrepot Est
+C202606140959,2026-06-14,CL0373,Livre,Culture,5,16.32,Entrepot Nord
+C202606140960,2026-06-14,CL0306,Casque audio,Electronique,5,98.65,Entrepot Nord
+C202606140961,2026-06-14,CL0163,Chaise bureau,Mobilier,4,205.19,Entrepot Nord
+C202606140962,2026-06-14,CL0268,Console jeux,Electronique,1,216.42,Entrepot Est
+C202606140963,2026-06-14,CL0386,Console jeux,Electronique,1,393.46,Entrepot Nord
+C202606140964,2026-06-14,CL0083,Plante verte,Maison,3,32.14,Entrepot Sud
+C202606140965,2026-06-14,CL0096,Chaise bureau,Mobilier,1,244.0,Entrepot Sud
+C202606140966,2026-06-14,CL0338,Console jeux,Electronique,2,262.01,Entrepot Nord
+C202606140967,2026-06-14,CL0036,Casque audio,Electronique,1,55.53,Entrepot Sud
+C202606140968,2026-06-14,CL0306,Casque audio,Electronique,2,93.4,Entrepot Sud
+C202606140969,2026-06-14,CL0007,Casque audio,Electronique,5,99.81,Entrepot Est
+C202606140970,2026-06-14,CL0027,Plante verte,Maison,2,14.21,Entrepot Est
+C202606140971,2026-06-14,CL0021,Chaise bureau,Mobilier,2,93.15,Entrepot Sud
+C202606140972,2026-06-14,CL0391,Chaise bureau,Mobilier,2,194.93,Entrepot Nord
+C202606140973,2026-06-14,CL0339,Livre,Culture,5,12.53,Entrepot Nord
+C202606140974,2026-06-14,CL0380,Casque audio,Electronique,5,96.41,Entrepot Sud
+C202606140975,2026-06-14,CL0033,Plante verte,Maison,5,39.29,Entrepot Nord
+C202606140976,2026-06-14,CL0378,Chaise bureau,Mobilier,5,221.28,Entrepot Nord
+C202606140977,2026-06-14,CL0195,Livre,Culture,1,14.51,Entrepot Sud
+C202606140978,2026-06-14,CL0243,Livre,Culture,1,19.88,Entrepot Nord
+C202606140979,2026-06-14,CL0031,Livre,Culture,2,20.01,Entrepot Sud
+C202606140980,2026-06-14,CL0394,Livre,Culture,2,17.58,Entrepot Est
+C202606140981,2026-06-14,CL0395,Console jeux,Electronique,3,226.51,Entrepot Nord
+C202606140982,2026-06-14,CL0307,Livre,Culture,5,11.88,Entrepot Nord
+C202606140983,2026-06-14,CL0372,Livre,Culture,5,18.05,Entrepot Nord
+C202606140984,2026-06-14,CL0054,Livre,Culture,2,17.92,Entrepot Nord
+C202606140985,2026-06-14,CL0284,Console jeux,Electronique,4,344.59,Entrepot Nord
+C202606140986,2026-06-14,CL0256,Livre,Culture,2,8.43,Entrepot Sud
+C202606140987,2026-06-14,CL0032,Console jeux,Electronique,5,316.84,Entrepot Sud
+C202606140988,2026-06-14,CL0255,Livre,Culture,4,23.73,Entrepot Nord
+C202606140989,2026-06-14,CL0096,Livre,Culture,4,15.51,Entrepot Est
+C202606140990,2026-06-14,CL0189,Chaise bureau,Mobilier,5,117.82,Entrepot Nord
+C202606140991,2026-06-14,CL0106,Chaise bureau,Mobilier,5,80.07,Entrepot Nord
+C202606140992,2026-06-14,CL0115,Plante verte,Maison,1,24.59,Entrepot Nord
+C202606140993,2026-06-14,CL0318,Plante verte,Maison,1,20.45,Entrepot Nord
+C202606140994,2026-06-14,CL0302,Plante verte,Maison,3,30.27,Entrepot Nord
+C202606140995,2026-06-14,CL0196,Livre,Culture,1,20.47,Entrepot Nord
+C202606140996,2026-06-14,CL0128,Console jeux,Electronique,4,285.2,Entrepot Sud
+C202606140997,2026-06-14,CL0090,Plante verte,Maison,4,23.65,Entrepot Est
+C202606140998,2026-06-14,CL0186,Livre,Culture,2,13.08,Entrepot Nord
+C202606140999,2026-06-14,CL0067,Console jeux,Electronique,4,321.57,Entrepot Est
+C202606141000,2026-06-14,CL0230,Livre,Culture,4,12.01,Entrepot Nord
