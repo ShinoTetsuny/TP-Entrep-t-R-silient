@@ -112,3 +112,20 @@ Le job :
 |Entrepot Sud |2026-06-14|112708.41999999998    |310         |363.5755483870967 |
 +-------------+----------+----------------------+------------+------------------+
 ```
+
+## Étape 5 — Vérification du résultat Parquet
+
+```bash
+docker exec namenode hdfs dfs -ls /data/agg_entrepot_jour
+```
+
+```
+Found 2 items
+-rw-r--r--   3 root supergroup          0 2026-07-08 13:08 /data/agg_entrepot_jour/_SUCCESS
+-rw-r--r--   3 root supergroup       1906 2026-07-08 13:08 /data/agg_entrepot_jour/part-00000-6fa7f161-a330-46fb-b51c-5ddd885fb274-c000.snappy.parquet
+```
+
+**Analyse** : le fichier `_SUCCESS` confirme que l'écriture s'est terminée sans
+erreur. Un seul fichier `part-00000...snappy.parquet` (compression Snappy, le
+défaut Spark) suffit puisque le résultat agrégé ne compte que 9 lignes au
+maximum (3 entrepôts × 3 jours) — tout tient dans une seule partition.
